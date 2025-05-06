@@ -1,0 +1,1464 @@
+id,status,_server_id,text,span_label.responses,span_label.responses.users,span_label.responses.status
+6b756cbd-501c-4c1a-8d7a-7b08aaddaf9d,completed,79d3d486-57fe-4843-ad7f-1d1b90d9c03c,jatoba serrada em pranchao,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 26, 'label': 'CORTE', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+62782ed5-4402-4aad-8141-6cf564720ee2,completed,3bc9611b-22b2-4c8a-85dd-8e688b070945,"sarrafo - cumaru-amarelo (dipteryx odorata) bruto, normal, fas, ad, 25,00mm a 28,00mm x 50,00mm x 3,00m a 7,50m","[array([{'end': 8, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'ESPECIE', 'start': 10},
+        {'end': 42, 'label': 'ESPECIE', 'start': 26},
+        {'end': 75, 'label': 'DIMENSÃO', 'start': 68},
+        {'end': 85, 'label': 'DIMENSÃO', 'start': 78},
+        {'end': 103, 'label': 'DIMENSÃO', 'start': 98},
+        {'end': 111, 'label': 'DIMENSÃO', 'start': 106}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f0a1c27f-9323-4774-9574-e60749e22c9e,completed,e2ed987b-319e-43ab-89a8-c9172ba486af,linha angelim 5x13cm 3.50mts,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bab5e479-6148-40b3-af6d-1001bc5ebe8b,completed,8f9c6263-7128-48f2-99ac-67939a344c5f,tauari madeira serr em ripas,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'CORTE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+caf28abc-8064-4d42-9465-00f07f699480,completed,fa8d4d84-126f-45ad-bfa4-b90a59a7b307,pinus - sarrafo aparelhado de 4 x 10 cm,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 15, 'label': 'CORTE', 'start': 8},
+        {'end': 39, 'label': 'DIMENSÃO', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6fe78c74-2f35-41f7-9e24-56e489249238,completed,1a8bb761-b3d6-4da0-a7b6-f65e1bd716ee,pequiarana madeira serrada tabua taipa,"[array([{'end': 10, 'label': 'ESPECIE', 'start': 0},
+        {'end': 32, 'label': 'CORTE', 'start': 27},
+        {'end': 38, 'label': 'CORTE', 'start': 33}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+36162081-08c1-4e63-80a0-856a93323617,completed,36b69a20-ccf3-4d08-9ea6-37542630470e,quaruba cedro serrado em tabua,"[array([{'end': 30, 'label': 'CORTE', 'start': 25},
+        {'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0e8b6723-aab5-43ff-9326-9e03b7048956,completed,ac6ac6d0-da60-46b5-bda7-ce63ec955ccb,madeira serrada caibro piptadenia suaveolens - timborana,"[array([{'end': 22, 'label': 'CORTE', 'start': 16},
+        {'end': 44, 'label': 'ESPECIE', 'start': 23},
+        {'end': 56, 'label': 'ESPECIE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f893d350-dcee-43ae-b7fb-4449ef2ae37f,completed,9a437aa2-b0ec-4e08-9774-63cf23d3a9e8,amapa-doce serrada em tabua (taipa),"[array([{'end': 10, 'label': 'ESPECIE', 'start': 0},
+        {'end': 34, 'label': 'CORTE', 'start': 29},
+        {'end': 27, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+87e25da5-e1d0-4984-b1ad-3cfa1bad2643,completed,6c372ecc-c68c-4ac0-9d0e-0f3104fc74d1,caibros 3x5 misto,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 12},
+        {'end': 11, 'label': 'DIMENSÃO', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d1bcc7e0-4d23-4200-94f1-ca21e0b221aa,completed,eff24e06-6213-4e63-987b-2c6073bd6b7f,cumarurana serrada em pranchas,"[array([{'end': 10, 'label': 'ESPECIE', 'start': 0},
+        {'end': 30, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+388c1889-ae73-4bee-8a76-724460182771,completed,9ae800b0-9e87-4d6b-ab9f-09e88577ce86,madeira serrada tipo (viga)-taxi,"[array([{'end': 26, 'label': 'CORTE', 'start': 22},
+        {'end': 32, 'label': 'ESPECIE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a83c5cf2-249e-4135-b9e7-6f02bdea42c8,completed,f92dcde8-6849-4d39-841d-002fd2bc61f7,tauari serrado em sarrafo,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d8748933-110a-41a8-b069-6a002f272d51,completed,9839241a-88a0-45f1-bb0f-a3f353156d2e,madeira serrada em vigotas na especie andiroba,"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 46, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2e6fd629-604f-426e-a76f-f399af251841,completed,6325cc27-7960-4c15-8770-fa3a7e3af705,madeira serrada em sarrafos da essencia - cedro,"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 47, 'label': 'ESPECIE', 'start': 42}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7190e022-5464-49bc-90cf-ad1987d2ad06,completed,7deac0be-65e7-4a9e-9474-5dbeb4895e05,fava - branca - serrada em ripas,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 0},
+        {'end': 32, 'label': 'CORTE', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+65c2e1ac-db23-4d91-88f7-51aedcb11db3,completed,32f45b18-0b36-47bc-ae11-9e70712a7931,guajara caibro curto,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 14, 'label': 'CORTE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+29ab51af-5cbe-4ecd-a9fc-8574e30ceac2,completed,0e392e54-aa37-40f5-8257-fb08520edf08,louro serrada em sarrafos,"[array([{'end': 5, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c42932cb-1232-4fd5-9da5-3e174c5226ee,completed,99e204d1-aae6-4c16-aaf6-a33deda05d56,"viga mista (6,0x12) guajara-branco serrado","[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 10, 'label': 'ESPECIE', 'start': 5},
+        {'end': 34, 'label': 'ESPECIE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+54b6c177-cdd0-4d66-b9cf-a4fbf95bb837,completed,7bd8b3f3-bc9d-47a5-bf76-f805d102f0d6,louro-vermelho serrada caibro-caibrinho,"[array([{'end': 14, 'label': 'ESPECIE', 'start': 0},
+        {'end': 29, 'label': 'CORTE', 'start': 23},
+        {'end': 39, 'label': 'CORTE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+39f5b3da-0751-407d-998d-68a78a650526,pending,10e0618a-8e29-4809-8e95-d1558cd024e9,papel oficio senninha verde,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+b87b73bd-a6f2-4c0b-98d9-2998a3ddd06e,completed,d5f39bfd-8f9e-47ee-a7d3-bf732125bd39,"compensado 1.6 x 2.2 x 0,6 mm","[array([{'end': 29, 'label': 'DIMENSÃO', 'start': 11}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a08c9569-cdae-4bf8-b050-cff8ed66b627,completed,95589f52-9dec-4dfb-aaf7-8a95a4e548df,porta diagonal timborana 80,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'ESPECIE', 'start': 15},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+09bb72d1-b3e4-4051-9914-7a7b7379729f,completed,4854dc25-1d8f-41d6-8524-e98899d693f2,tabuas de pequiarana - taipa,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 21, 'label': 'ESPECIE', 'start': 10},
+        {'end': 28, 'label': 'CORTE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+614dbdb6-6549-4453-b53a-46ea93bf63b7,completed,c124b9f3-637d-4074-bbd0-2f63b81e0a23,viga de cambara 5x10 metro corrido,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'ESPECIE', 'start': 8},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+151796c1-ed83-4123-9e90-16a20d6070c9,completed,b5fde04b-418b-42b7-9bab-0b73ed0bc57d,prancha,"[array([{'end': 7, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ad84b377-0c2a-45bf-bf51-e452ea6ef0d0,completed,91ca2857-4f11-4752-a1ca-623c8c9a63b1,"louro vermelho 2,5cm","[array([{'end': 14, 'label': 'ESPECIE', 'start': 0},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0abaf010-e46d-43f7-8133-b0d313efcce2,completed,8c0cd70b-b3a5-4f6c-8a77-33a03802cf1b,"madeira em tabua de freijo 4,00x0,30x3,50","[array([{'end': 16, 'label': 'CORTE', 'start': 11},
+        {'end': 26, 'label': 'ESPECIE', 'start': 20},
+        {'end': 41, 'label': 'DIMENSÃO', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+28befa18-a3e6-4695-92b8-fcbb8709eea9,completed,ce29579e-efad-426f-ac19-e7376cd74d07,-madeira serrada (prancha) - da especie - breu,"[array([{'end': 25, 'label': 'CORTE', 'start': 18},
+        {'end': 46, 'label': 'ESPECIE', 'start': 42}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cde2a6f4-cd6d-4372-b272-4e188f543fe9,completed,d9feff83-eee6-420b-829a-65c8d261374a,goiabao serrado ripas,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 21, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+699c00c9-792d-4442-9b91-ad47765ea416,completed,687298ea-1a41-41fd-95c5-c6033799b494,madeira serrada ripa ( uxi ),"[array([{'end': 21, 'label': 'CORTE', 'start': 16},
+        {'end': 27, 'label': 'ESPECIE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b6582324-6297-4b1e-a0f9-65ab031c4804,completed,4dd3381e-af45-41e8-a4c1-e76e3ce0c33a,angelim vermelho sarrafos,"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+26172e0e-1b6f-48f5-8333-c6f39dfba3f3,completed,3f3a8941-f38d-43ec-9ccb-6652a5d74517,"mourao de euc. imunizado 4,0m - 18/20cm","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 10},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 25},
+        {'end': 39, 'label': 'DIMENSÃO', 'start': 32}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fc722235-0d13-4b4b-be19-2c0284571782,completed,980f5f2f-35ee-4eee-a974-b94ee17c02f9,louro preto serrado sarrafos 3 x 5,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'CORTE', 'start': 20},
+        {'end': 34, 'label': 'DIMENSÃO', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+dc92fb03-c909-498c-bad1-ec36125985d0,completed,0f0ee249-5f8c-4508-881e-80bc22fceadb,madeira serrada em ripas da especie - taxi,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 42, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8150d7a1-e0a6-4df9-8d0f-9037b7aa6b37,completed,68c2306d-1387-4471-b15d-b03e824471b4,madeira serr viga louro,"[array([{'end': 17, 'label': 'CORTE', 'start': 13},
+        {'end': 23, 'label': 'ESPECIE', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+eb350e30-c714-430e-bc71-b5534184dd4c,completed,425debe9-9950-43ce-ac22-4f201cec6495,"linha 3/6 7,50m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 15, 'label': 'DIMENSÃO', 'start': 10}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4e4a94e1-d3d8-4790-99b2-a1ae026e248f,completed,13b6ec0a-6d12-40e3-8617-813add7c4340,madeira serrada em pranchao desdobrados da essencia jatoba (hymenaea courbaril l.),"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 59, 'label': 'ESPECIE', 'start': 52},
+        {'end': 81, 'label': 'ESPECIE', 'start': 60}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6a1bbe3b-3ff9-4378-8c45-535814f9761d,completed,ba11b78b-2608-403c-b673-82079b8364f6,"tabua andiroba 3,5","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 6},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2b4d2926-940c-4c13-8051-22d621e5933a,completed,581ca831-12b7-45ab-9fec-93f300cfd5b8,"madeira serrada tipo prancha, esp. angelim, hymenolobium excelsum ducke","[array([{'end': 28, 'label': 'CORTE', 'start': 21},
+        {'end': 42, 'label': 'ESPECIE', 'start': 35},
+        {'end': 71, 'label': 'ESPECIE', 'start': 44}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0f17627b-ce35-45a8-b8c6-f4ac3fff6999,completed,7751e22a-cc57-4acf-90fd-b7585e00af50,timborana serrada (viga),"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 23, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+628f2f38-19bb-4ccd-88d5-cd455f3f0c85,pending,598c0fb0-577e-486c-b2dd-a84569f1816f,palito de dente fiat lux,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+2341bcf8-0e67-40e9-9d78-7a80438f7694,completed,602113c8-ad61-4f38-89e5-a2663a864db5,"poste de eucalipto tratada 3,5 x 16 a 18 - eucalpito barrote","[array([{'end': 18, 'label': 'ESPECIE', 'start': 9},
+        {'end': 40, 'label': 'DIMENSÃO', 'start': 27},
+        {'end': 52, 'label': 'ESPECIE', 'start': 43},
+        {'end': 60, 'label': 'CORTE', 'start': 53},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+df1b50cc-3867-40bd-a272-5f00b62fd49a,completed,c77f2e55-23ca-4cc1-97b3-300cadc425f2,porta laminada,"[array([{'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f20a30ce-f13b-4e24-85e6-4789a7e47a32,completed,106b1993-0985-43b0-bb81-3ff7e92a1865,mad. esp. ang. vermelho industrializada de residuo (caibrinho),"[array([{'end': 23, 'label': 'ESPECIE', 'start': 10},
+        {'end': 61, 'label': 'CORTE', 'start': 52}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+35a22ed5-9ead-4754-9c74-f6ff33da3b4a,completed,e68807f9-0341-4394-88f3-f80dec2cb74e,"caibros   144 de 3,50mt","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 10}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c56ad547-e6f4-4782-9011-fadc13edb99f,completed,f3cbcef5-9a62-4537-b423-8b75ef47c235,jatoba serrado tabuas,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 21, 'label': 'CORTE', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fff904ee-96f2-43a5-8c3b-05c40fbc0669,completed,cc3bdcbe-684a-4ea1-9ce9-ba14196edd62,madeira serrada em caibro de jatoba,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 35, 'label': 'ESPECIE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+272e4a4d-5d4f-47ad-be40-65fbfc22c748,completed,ffebfac5-97ca-4e53-b414-97b99ba92abe,janela madeira 100x80,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6667fdaa-7418-4863-8a3e-35d890e09526,completed,2a416654-0077-479c-a7f5-31137d8f4f57,madeira serrada da especie massaranduba vigas,"[array([{'end': 39, 'label': 'ESPECIE', 'start': 27},
+        {'end': 45, 'label': 'CORTE', 'start': 40}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5fafffa8-a831-4466-88f7-5d2485b594d8,completed,0cf7bbe1-4c1d-4f07-8097-8c926fc3713e,"linha mix 5x10 2,5mt-madeira","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'ESPECIE', 'start': 6},
+        {'end': 14, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2fd60e74-e5ca-4b3e-8cbc-471eaa2c26b7,completed,804a098b-0237-4f45-9988-662fe5aabe61,hymenaea courbaril l. jatoba- 28-  viga,"[array([{'end': 21, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'ESPECIE', 'start': 22},
+        {'end': 39, 'label': 'CORTE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+91a46b0a-4c40-470f-87a9-da0c032164be,completed,d9c2b5b7-3073-45ec-a28d-58ebb4277338,tabua madeira mista,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 19, 'label': 'ESPECIE', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b86c2c6c-768f-4e06-9e72-2019faf3edf4,completed,f5e418df-3d12-4fc0-a288-59bab7105f66,caibro misto guajara mad ind res,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7},
+        {'end': 20, 'label': 'ESPECIE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f0ebcca3-db6d-405b-9aa2-ebf1ea768c90,completed,e27d9f7b-e023-4d1d-a133-74b7932c2434,macaranduba - madeira ser - sarrafos (caibrinho),"[array([{'end': 12, 'label': 'ESPECIE', 'start': 0},
+        {'end': 36, 'label': 'CORTE', 'start': 28},
+        {'end': 47, 'label': 'CORTE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+befc4054-4ee6-429d-bc2f-b07d5cbd30e2,completed,76ba880e-adbb-4c66-8d55-ce50761ef504,tanibuca serrada caibro-caibrinho,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 23, 'label': 'CORTE', 'start': 17},
+        {'end': 33, 'label': 'CORTE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+488f9a1f-ea8f-4a38-b556-f6c95c592704,completed,f706cd74-b785-4da8-8a23-dc6a78bba230,quarubatinga serrado em vigota,"[array([{'end': 30, 'label': 'CORTE', 'start': 24},
+        {'end': 12, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9daa655f-d9a9-47ee-acc7-3e55165fcc1b,completed,14e00d05-e75f-4910-9d6c-503a45cb8e94,porta veneziana 2.10 x 80 cxd andiroba,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 16},
+        {'end': 38, 'label': 'ESPECIE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+72603ede-3aae-4d92-93f0-b1f19bea64ea,completed,0ee97836-ab1b-4ad4-adab-04d44b8d54c3,macaranduba mad ind de residuo caibrinho,"[array([{'end': 40, 'label': 'CORTE', 'start': 31},
+        {'end': 11, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b03aee30-5f42-40bf-92c8-a2c1146a234c,completed,3f3c0793-0b5c-451d-8e65-9001a62aac15,linha massaranduba 5 x 12,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'ESPECIE', 'start': 6},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b0bb54a3-16c3-444b-8533-54fe125a0680,completed,fe2c5941-07ef-4cbb-9911-49ce9aaba9da,tauari serr. tabua,"[array([{'end': 18, 'label': 'CORTE', 'start': 13},
+        {'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b1fafdd0-edd1-466f-9251-10ed5360b819,completed,cc2b8113-7a7b-4729-a9fe-00ccc3ea2238,madeira serrada na especie angelim vermelho- caibro,"[array([{'end': 43, 'label': 'ESPECIE', 'start': 27},
+        {'end': 51, 'label': 'CORTE', 'start': 45}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4e34ea3e-7cc2-4cca-b8bd-bada78403e41,completed,581ab072-236e-4d93-a96a-49ee73895389,"porta mista 2,10x100m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2bfd5257-c7eb-450f-a205-289085a8dcc2,completed,72ff747e-5669-4e8f-8483-c10c2fe7fdf0,madeira serrada pranchao desdobrado de jatoba,"[array([{'end': 24, 'label': 'CORTE', 'start': 16},
+        {'end': 45, 'label': 'ESPECIE', 'start': 39}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8ff67e6d-97e9-4146-a667-a4c9371793d7,completed,f1724989-ee68-4ff7-b293-c0c75c977116,madeira serrada em vigota da essencia - guaruba-cedro,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 53, 'label': 'ESPECIE', 'start': 40}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+51bd65dc-ace4-413a-bf91-400f754cc896,completed,254cfd52-0a81-4ebd-bcd7-84dc46a5827d,cx porta jatoba 15x70cm comerc,"[array([{'end': 8, 'label': 'CORTE', 'start': 3},
+        {'end': 15, 'label': 'ESPECIE', 'start': 9},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b77f3a37-512b-48e3-8dbd-28216232bbab,completed,d04386f6-c4fc-470e-a09f-5a0f074dce3b,madeira serrada tipo (prancha) da especie- timborana,"[array([{'end': 29, 'label': 'CORTE', 'start': 22},
+        {'end': 52, 'label': 'ESPECIE', 'start': 43}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e4d44e5f-65dc-492e-a62d-39464bdbd64c,completed,dfbadb47-25aa-48b4-bad2-61de0b84380b,armador ipe,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f04d327f-b638-44b8-9702-7bdc702fd6ed,pending,0c7ac6da-6b0a-4f99-b3a3-ad6262f395e1,espatula de pau,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+4cb45b20-46c4-495a-932b-d2f45654b081,completed,8b3316d4-f117-4078-9d75-9e4118b5bf59,"linha 5x28 cm angelim c/ 6,0 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 21, 'label': 'ESPECIE', 'start': 14},
+        {'end': 31, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6a9234dc-4760-4302-85d2-eb25958506cb,completed,ddcd7cbd-61af-4eec-a99a-61ede0640375,madeira serrada em viga da essencia - andiroba,"[array([{'end': 23, 'label': 'CORTE', 'start': 19},
+        {'end': 46, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3b5f737a-e9d2-4a63-92b6-d04317f4f1f6,completed,f7163c7b-78d6-4ea7-9f14-1160e9685998,cumaru serrado mad.ind.de residuo caibrinho,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 43, 'label': 'CORTE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+df783635-bd59-421e-80d4-aa3e8d227f72,completed,6680795b-18b5-431b-9d80-fcf461aa1517,casca seca serrada em caibros,"[array([{'end': 29, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+605fbd7f-ad9d-4d3a-93f5-0a6af4d7ff3f,completed,fda0b06f-4d45-46cf-a46f-435c4f50aaa5,muiracatiara madeira serrada tabua,"[array([{'end': 12, 'label': 'ESPECIE', 'start': 0},
+        {'end': 34, 'label': 'CORTE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1b8658fd-8780-4253-a8d1-ce1dcb7a8c1e,completed,07592f4e-5f22-4e2a-840d-36972429a94d,jatoba serrada em sarrafo,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5c41c186-921d-49d9-a5fd-dc9600bca7cb,completed,d83e03a3-e4a1-4df2-8ff5-5056f35b0006,madeira serrada caibro  da especie - taxi,"[array([{'end': 41, 'label': 'ESPECIE', 'start': 37},
+        {'end': 22, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e2af4588-c670-4efc-a417-6868c6704785,completed,7e8db9ef-a418-4af4-9771-7255d98968f8,madeira serrada em vigas da essencia jarana(lecythis poiteaui o berg),"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 43, 'label': 'ESPECIE', 'start': 37},
+        {'end': 68, 'label': 'ESPECIE', 'start': 44}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d06a2540-7e78-40ae-b5ec-8449c753e718,completed,780c7501-7e6b-4636-81d1-699445df70d5,cedrinho em viga,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 16, 'label': 'CORTE', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d166ba56-5c80-4cf2-9e47-8b1c3b0ee62f,completed,244d552e-fe27-485c-b241-4765525ef835,guajara serrado tabuas,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 22, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+26adce8c-c296-4f71-a14a-c13cbaf11c35,completed,4101be56-978f-4367-a0b6-77ea0b8b9c45,caibro mass/ang 2.5 metros un 1,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 7},
+        {'end': 15, 'label': 'ESPECIE', 'start': 12},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 16},
+        {'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f3522853-77d3-42fe-893f-1901e5c6951b,pending,3243e70f-1b80-4554-bedc-73bc4f40d6a8,caixa boneca cb101007fl 4-d,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+4e5f7229-b783-4531-a6b0-199ead5bb681,completed,04414d81-fe4d-4c3e-bfa9-c9eaaa4b3e13,breu-sucuruba madeira serrada em sarrafos,"[array([{'end': 41, 'label': 'CORTE', 'start': 33},
+        {'end': 13, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fbfe34ac-5e61-4afa-b05c-fd32196cbb8f,completed,12f42917-2fe2-40ca-8035-86cbc3a69c82,abiu madeira serrada caibro,"[array([{'end': 4, 'label': 'ESPECIE', 'start': 0},
+        {'end': 27, 'label': 'CORTE', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c2db3a34-1780-4482-9b4a-37cb7a6fc485,completed,af63765d-e995-4d4c-900c-f21ac1aa06f7,madeira serrada de eucalipto bruta grade d,"[array([{'end': 28, 'label': 'ESPECIE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+45dfe40c-4273-4781-9245-b2b744c4489f,completed,91cefe8c-3c21-4576-b38b-98aed8b7196b,"linha (5x9) 4,00mt peroba rosa","[array([{'end': 10, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 30, 'label': 'ESPECIE', 'start': 19},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+37fbccba-3385-4653-b0c8-ee03dc9795f1,completed,8f98b113-4c0b-4e1f-983b-4f3fc8a6a05d,cupiuba madeira serrada em aprov. caibro(3x5),"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 40, 'label': 'CORTE', 'start': 34},
+        {'end': 44, 'label': 'DIMENSÃO', 'start': 41}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e5b70cc4-9f1c-4617-a0ef-de211a832187,completed,56d4a41d-9aaa-4f2d-9ab2-048463f98d87,madeira serrada em sarrafos da especie -,"[array([{'end': 27, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7bd173de-f896-4189-abe7-ace6b39fb671,completed,be4be720-0e55-49f0-af9a-1fcc84b5a402,"barrote 5x5 2,00mt","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a34ff5c9-690d-4e29-8078-643942b16a49,completed,531b5ebe-2b32-401c-9d53-aabc388b8184,madeira serrada viga de roxinho,"[array([{'end': 31, 'label': 'ESPECIE', 'start': 24},
+        {'end': 20, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+35fe0c17-f342-4033-bee1-1e61b6762d66,completed,8a8aaf85-2c37-4eb4-bffd-1fa884179650,"linha massa 5,0x15 3,5mt-madeira","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+02405e4e-8e42-484e-af29-aac9d3fe599a,completed,bccfbfb6-b9b7-40db-a179-b36e74b5f714,caibro ipe 3 5m,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'ESPECIE', 'start': 7},
+        {'end': 15, 'label': 'DIMENSÃO', 'start': 11}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bbf049f2-8871-47ea-a2fd-3f4bc7b72cf3,completed,460b15c5-c62e-4b75-b7a8-a31c0b8dbf00,"linha massa 5,0x15 6,0mt madeira","[array([{'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e8bf7952-6240-4d67-8f43-2bef1ad5ca99,completed,3ced1468-5ab0-42e2-84d4-3c5187208692,tabua melhor 30-madeira,"[array([{'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f306e660-3eaa-46fc-9953-af3fa6cceeb3,completed,ea726791-99b5-4cbf-a7d0-e3a74a0d2654,louro tamaquare madeira serrada em tabua,"[array([{'end': 5, 'label': 'ESPECIE', 'start': 0},
+        {'end': 40, 'label': 'CORTE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+08efb949-eaad-4246-845b-47b1fdd09be5,completed,e6cf91bc-9403-4450-9667-5fdbb16e66d4,muiracatiara 27 - madeira serrada (tabua),"[array([{'end': 12, 'label': 'ESPECIE', 'start': 0},
+        {'end': 40, 'label': 'CORTE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b8b144e1-53a7-4e9b-b359-e9c674d8cc39,completed,efb90699-b60d-4791-bc11-065aa867711f,madeira serrada em vigotas da essencia jatoba (hymeneae courbaril l.),"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 45, 'label': 'ESPECIE', 'start': 39},
+        {'end': 68, 'label': 'ESPECIE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d197134b-6ebe-4565-adea-bd073eeea53d,completed,09a5f1c1-deb9-41da-9b7e-42359f6d09fd,ipe ripa guajara 5x1.0cm,"[array([{'end': 3, 'label': 'ESPECIE', 'start': 0},
+        {'end': 8, 'label': 'CORTE', 'start': 4},
+        {'end': 16, 'label': 'ESPECIE', 'start': 9},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6c610e6c-5c2b-4715-bd5d-504aa13bd302,completed,d3d61637-76a2-4499-9c06-a9738d384503,angelim-pedra madeira serrada taipa,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 0},
+        {'end': 35, 'label': 'CORTE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d21bf91c-720c-4a81-8279-f1f273fac584,completed,39849141-c633-47f9-b94a-66fd40528052,barrote serrado em ripas,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6c89f6da-7ac7-4c24-948b-2d666760c17c,completed,32dabcf2-2cca-468b-b553-9b67cf7cebf5,"frechal 5,00mt peroba rosa","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'DIMENSÃO', 'start': 8},
+        {'end': 26, 'label': 'ESPECIE', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9166675b-dac4-4da3-b9a6-c4e532af56a1,completed,add6b441-3764-455f-9abd-942c67743259,tabua mista 13 cm ml,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 17, 'label': 'DIMENSÃO', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+48fbf7c0-b026-4871-b2d2-ee329ef59bcf,completed,a8add84e-48c0-45e8-b297-540012372222,ripa angilim 1,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 5}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7d3af262-32ba-4ca2-8c17-914fa5851151,completed,beaae74f-284d-4d07-b015-6ccab7fec956,madeira serrada em pranchas da essencia macaranduba (manilkara huberi (ducke) chevalier),"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 52, 'label': 'ESPECIE', 'start': 40},
+        {'end': 87, 'label': 'ESPECIE', 'start': 53}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6d100e3b-f300-41c3-bd0e-60517d898ff5,completed,c414f649-5934-4f93-96ed-70e063756a99,madeira serrada caibro de maracatiara,"[array([{'end': 22, 'label': 'CORTE', 'start': 16},
+        {'end': 37, 'label': 'ESPECIE', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+83419d68-0f82-41da-a7a4-c39255262ef6,completed,05428bf2-2f32-4acd-92d7-b60bd4174e28,saffaro (jatoba),"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'ESPECIE', 'start': 9}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+18a28bb7-27fa-4464-86e2-56d3d3850ba2,completed,9ac43f9c-30d4-4e64-9ef7-0100f2d46b02,tatajuba serrada em sarrafo,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 27, 'label': 'CORTE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ed241342-d9f1-4bde-9d67-5f5f1ae7647a,completed,a49a4637-d0c4-4bb8-a339-42c925d75c93,cx de porta 2.10x70x13,"[array([{'end': 11, 'label': 'CORTE', 'start': 6},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+df4f7289-9f65-4d14-82b4-1af3448519f0,completed,4e34769b-7ba0-455b-b4cd-22d0c2bfbd59,"linha macaranduba 5x11 8,0 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 6},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+adf02875-d9a9-4fa5-b95e-3cb554ba976e,completed,c5c5641e-df3f-4095-ba0e-492b5962ab4f,porta lambri veneziana 80cm,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 6},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+18e96a98-20de-4ead-aed8-4416c9ec63b2,completed,65d94dc5-92d1-456d-8cd7-15e881f75699,madeira serrada em pranchao desdobrado da especia - cedro,"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 57, 'label': 'ESPECIE', 'start': 52}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a83c0738-5930-4566-a4ff-67ff679bead2,completed,94f99a07-7c1d-48b4-bad1-51ab537299a6,madeira serrada (pranchao desdobrado) da especie faveira  vermelha - parkia oppositifolia spruce ex benth.,"[array([{'end': 66, 'label': 'ESPECIE', 'start': 49},
+        {'end': 106, 'label': 'ESPECIE', 'start': 69},
+        {'end': 25, 'label': 'CORTE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+319a3940-5683-4d61-94d2-d8b690c29110,completed,88c92bfb-4adc-43ee-babb-f4bda96ca29d,"madeirite 5mm 2,20x1,10m resinado","[array([{'end': 9, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 10}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9d3cfa33-1a23-46de-b982-01d1c7a7f644,completed,a527c3a5-9ec2-4cd8-b322-6a6af9fd1fa1,forra massaranduba 13cm .,"[array([{'end': 18, 'label': 'ESPECIE', 'start': 6},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 19},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f5f37be7-1a78-4c4d-900b-218ed7fd6ce8,completed,68434f96-296f-4755-8bdf-64844e26cebf,linha mad angelim 5x24 6mt,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 10},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+586d999a-4484-48a8-85d9-dbd7a05e439d,completed,42bdcfa1-0e08-4979-bb89-2f9f4ef0dd3b,"louro verm serrado 2,5","[array([{'end': 5, 'label': 'ESPECIE', 'start': 0},
+        {'end': 10, 'label': 'ESPECIE', 'start': 5},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7a2547a4-3ac3-42ef-9291-236617a510c8,completed,12993116-8e2a-43ec-a873-8881589ad441,madeira serrada em sarrafos na especie acapurana,"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 48, 'label': 'ESPECIE', 'start': 39}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0d0ba941-bbe2-413d-9f1b-18dd219c031d,completed,53446c3d-0b1a-4472-9417-43dee85121fe,barrote guajara 1m,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 16},
+        {'end': 15, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+29445391-b1d7-4cd6-9691-fbb2b79a7bfd,completed,8a398966-1a92-48e3-803f-cae5a8e64568,prancha de angelim-pedra,"[array([{'end': 24, 'label': 'ESPECIE', 'start': 11},
+        {'end': 7, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ed1cc94f-6a2e-425e-af48-4e00abab6ab6,completed,e8bc0fce-ef01-4538-9c39-726fab15c8a8,"ripa mass 1,2 x 5cm - com 2,00","[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'ESPECIE', 'start': 5},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c329db25-2512-4590-ad61-a9e2abcc6268,pending,a3665dc3-8123-4904-b7d0-03a07754d83d,moldura oval pq,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+e45d954b-c636-4634-a680-d505d7d2c413,completed,e09dbd53-da99-4c1b-ac3e-332e9410b3d7,madeira serrada prancha da especie de jatoba,"[array([{'end': 23, 'label': 'CORTE', 'start': 16},
+        {'end': 44, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2bf9b50b-d3ca-4336-82c7-e3e58b5249bf,completed,9292c393-4dae-4cd4-9581-cec89f00b4b6,madeira serrada viga de cambara,"[array([{'end': 31, 'label': 'ESPECIE', 'start': 24},
+        {'end': 20, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b4c4e18c-635f-47a3-b38d-dfc8aa851a20,completed,4072cf78-4bf7-4b2c-bcfa-a72c3b85aee8,macaranduba mad serrada viga 14,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'CORTE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+751c3773-3e82-4e4a-b5be-aaeea098e5b4,completed,d4bfcb34-c0be-45cf-9145-0d8b9ee93fd1,pequiarana - serrada em tabua ( taipa ),"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 29, 'label': 'CORTE', 'start': 24},
+        {'end': 37, 'label': 'CORTE', 'start': 32}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a5bb6000-2418-4def-953c-de1684469e3f,completed,6fbc41ca-a07d-4496-a107-87e255ed48bb,"madeira serrada em tabua (taipa ate 2,5 cm) especie quaruba","[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 31, 'label': 'CORTE', 'start': 26},
+        {'end': 42, 'label': 'DIMENSÃO', 'start': 36},
+        {'end': 59, 'label': 'ESPECIE', 'start': 52}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+185edb2f-8abe-43a7-8538-d7acd41a19f5,completed,963b53c5-4cce-4ad8-8769-d25e60e117b9,andiroba serrado caibro,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 23, 'label': 'CORTE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cd45cd9f-8baf-47b0-ae4f-4da003b9d1b9,completed,67c743b3-2a52-4105-bee2-459db61301b2,ripa massaranduba- mista,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 5},
+        {'end': 24, 'label': 'ESPECIE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+edcaa1cc-364f-4026-bda2-cbc2c8c5832f,completed,db16ff2d-86d4-4c95-bf2b-b48277c3a3bb,madeira tipo tabua p/ andaime - construcao bezerra,"[array([{'end': 18, 'label': 'CORTE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+80fbb5dc-b3f2-4855-a0f1-b054edb5e260,completed,944f1240-7f0c-44f3-9250-38887ab37c4b,quina madeira serrada em sarrafos,"[array([{'end': 33, 'label': 'CORTE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a7e6709b-1bce-444a-ab55-62f59dc2babb,completed,b2998abb-835a-45dd-ade0-6203dce42444,"caixa de porta jatoba 2,10x0,80x0,1","[array([{'end': 21, 'label': 'ESPECIE', 'start': 15},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 22},
+        {'end': 14, 'label': 'CORTE', 'start': 9}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+159b0cf9-9e99-451e-aa4d-ae809d4d2314,completed,87ea552b-55e3-40b5-a6a2-2604bb6bac73,prancha 20cm macaranduba 6m (1 und),"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'DIMENSÃO', 'start': 8},
+        {'end': 24, 'label': 'ESPECIE', 'start': 13},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f7ff9c48-a99b-498f-96a9-61206c26a8eb,completed,362fab7d-4e87-4c7d-9ca7-93b9287e17b0,madeira serrada em tabua da essencia jatoba (hymenaea courbaril l.),"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 44, 'label': 'ESPECIE', 'start': 37},
+        {'end': 66, 'label': 'ESPECIE', 'start': 45}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ae93c884-96c0-4e0e-af93-5e466f081c0d,completed,5825db13-25b2-40a9-b1b8-99cd0c0adb3d,linha angelim vermelho 6x13cm 3 00m,"[array([{'end': 22, 'label': 'ESPECIE', 'start': 6},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 30},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2b40355f-af30-4cc8-a23c-68cd9d06dbea,pending,66528154-acca-4216-ae48-ec182d5eb4c6,porta 570 cafe c/ vidro capsula p,"[array([{'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+c1674826-8cc0-4b35-9b4d-e5e82faef7b0,completed,50e9df7d-890b-4d22-ab11-4e40a12d346a,taxi serrado em taipa,"[array([{'end': 4, 'label': 'ESPECIE', 'start': 0},
+        {'end': 21, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+efb3d3e4-b9b0-482f-94d1-ad321f5c3f7a,completed,2a8666dd-0d41-431f-abdc-a7d92577dc43,madeira serrada em sarrafos da essencia -jatoba,"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 47, 'label': 'ESPECIE', 'start': 41}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7a68d1a1-2b1f-4079-8f34-6d1de88e57eb,completed,c8aa31c6-e064-47bb-b705-25cda1085eed,madeira serrada tipo prancha melancieira alexa grandiflora ducke,"[array([{'end': 28, 'label': 'CORTE', 'start': 21},
+        {'end': 40, 'label': 'ESPECIE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+373057bb-4ded-453b-ab60-0bc38a7b429d,completed,e4f41749-f065-4f59-befb-8243b8444ace,madeira em quadrados da essencia macaranduba(manilkara huberi(ducke)chevalier),"[array([{'end': 20, 'label': 'CORTE', 'start': 11},
+        {'end': 44, 'label': 'ESPECIE', 'start': 33},
+        {'end': 77, 'label': 'ESPECIE', 'start': 45}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f82a770f-3eb1-4378-a396-90639e6d82d5,completed,bb398813-8fb1-4842-a4a5-31fc2b8ea2a3,64 - copaibarana madeira serrado em sarrafo,"[array([{'end': 16, 'label': 'ESPECIE', 'start': 5},
+        {'end': 43, 'label': 'CORTE', 'start': 36}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5bbda127-8da4-457d-96a5-bbab367da854,completed,8d694b65-2150-4a15-9fdf-5857b2b7149d,hymenaea courbaril l. var. courbaril - jatoba-madeira serrada-tabua,"[array([{'end': 45, 'label': 'ESPECIE', 'start': 39},
+        {'end': 67, 'label': 'CORTE', 'start': 62},
+        {'end': 21, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3d819f6f-1d30-4be8-be42-d5ae552f74cd,completed,2f12b4f7-c50b-4b0f-8c80-0c5c024c3b9f,caibro madeira guajara,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'ESPECIE', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a0ccfb9f-2270-4106-bc8f-bfe344fc9183,completed,b53b3e5b-8432-4971-b754-436ac483fe1b,linha angelim 5x18cm 1.00mts,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e9b441a9-7752-4e52-80eb-d35a2ffeb436,completed,f1146f05-d6b5-4482-ba53-3b490cf585a0,"tabua pinus 30 x 3 cm c/ 3,00","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5f3327d8-4f13-4c35-9dd1-838bc6d4e89a,completed,af7b7a88-4135-4093-af64-75320cb4a111,madeira serrada tipo prachoes esp.muiracatiara,"[array([{'end': 29, 'label': 'CORTE', 'start': 21},
+        {'end': 46, 'label': 'ESPECIE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5c08e4c5-270b-48a3-ae09-09235a0e7191,completed,25f15478-9a0b-4f33-b6c5-db96e2e048ef,madeira serrada (tabua) da especie jatoba (hymenaea courbaril l.),"[array([{'end': 22, 'label': 'CORTE', 'start': 17},
+        {'end': 64, 'label': 'ESPECIE', 'start': 43},
+        {'end': 41, 'label': 'ESPECIE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+52825189-404f-478b-ab4f-f6405beec91d,completed,a46c04a6-9154-4c08-be53-a39349db7261,"madeira serrada em tabua (taipa ate 2,5 cm) especie marupa","[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 31, 'label': 'CORTE', 'start': 26},
+        {'end': 42, 'label': 'DIMENSÃO', 'start': 36},
+        {'end': 58, 'label': 'ESPECIE', 'start': 52}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a6270fe4-f5fe-4ea8-8634-ecbb3b86ba72,completed,4979a8b5-4657-466b-8070-ad3a3f83e1c9,cx - portais macaranduba desmontado,"[array([{'end': 12, 'label': 'CORTE', 'start': 5},
+        {'end': 24, 'label': 'ESPECIE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+86bd2b51-32ad-43f7-811b-8e1671e5ace1,pending,93d82874-d180-48b1-8bd0-20e4f8793b21,beneficiado diversos banco,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+c6b10dd6-8bd7-415a-84cd-65e849d55c38,completed,47db3c8f-40ce-4a67-8b83-385f0d4b1c12,madeira pequi vigas,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 8},
+        {'end': 19, 'label': 'CORTE', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+33c33c73-54a0-474c-9572-d301cca5727f,completed,5c852396-1207-4e40-9e8e-8711eae9f32c,madeira serrada em caibros da essencia angelim-vermelho (dinizia excelsa ducke),"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 55, 'label': 'ESPECIE', 'start': 39},
+        {'end': 78, 'label': 'ESPECIE', 'start': 57}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+44c1ac16-0786-40c7-8a97-4e5850e9cc7d,completed,d978671b-7a34-422f-bd80-eb9c89778364,caibro misto 5x6x1m,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0a4bdb92-c128-4cae-a49a-200bd5ae2daf,pending,61c16cd7-6332-4ab9-aee3-745369ac2620,cascaininho,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+1de3fc86-db07-451f-87d7-7f4cb95821be,completed,d603a957-bd16-42b0-add8-5215b21fb35c,madeira serrada prancha de cedrinho,"[array([{'end': 23, 'label': 'CORTE', 'start': 16},
+        {'end': 35, 'label': 'ESPECIE', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+dbda47bf-9131-4939-94f6-08edc7c60fb7,completed,687054a5-7d7e-45b4-a696-f0deb2f7a6c2,jatoba serr. sarrafo,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 20, 'label': 'CORTE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b8c66491-7037-44f2-ab5b-c40839b69922,completed,39353894-15e0-42d7-8efb-b85280b05c9b,"cx de porta cupiuba 0,80x2,10x0,13","[array([{'end': 11, 'label': 'CORTE', 'start': 6},
+        {'end': 19, 'label': 'ESPECIE', 'start': 12},
+        {'end': 34, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+821b0614-57ee-4927-be7c-25673eea5d49,completed,791b5ac0-7d0d-48bc-a41d-1931631d2b96,"linha macaranduba 5x11 4,5 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 6},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+61c8d65b-77ff-433b-8b83-e3ff9e58ad4b,completed,aad3bc31-f55c-4352-bf12-03d79933d429,linha cupiuba 5 x 20 de 10.00,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4b16c162-1113-4c76-a3f7-31b18adc95b4,completed,014ec6d3-1c1d-422a-9e1f-8d32e111bcac,"linha de madeira 5,5x14","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0e85906c-4304-4698-8627-81d2681f37a1,completed,719b7141-9e50-46af-ba35-1407b4d404b4,linhas,"[array([{'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d40e8127-459b-4916-ba90-a510ca23ba37,completed,62370efa-a864-4cdf-a1d6-7e6fe75c6050,madeira serrada sarrafos da especie barrote,"[array([{'end': 24, 'label': 'CORTE', 'start': 16},
+        {'end': 43, 'label': 'CORTE', 'start': 36}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0ab54cf1-cc8e-4b34-86b7-8781f833e579,completed,5f24137e-8a6b-4b4e-9f32-2466a31df106,palito picole 100 un bambu billa,"[array([{'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ab4070af-a7fd-453a-8759-4bae28155823,completed,f02ffd3e-a984-4dc5-a791-7a023a2e8b5f,andiroba madeira serrada em sarrafos,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 36, 'label': 'CORTE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f0cdaca7-784b-4b9b-ade7-e1e7f485eddc,completed,91fc3cc2-1356-4ef7-9b1c-da1dde756a38,caibro madeira guajara 1 50 a 2 50mt,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'ESPECIE', 'start': 15},
+        {'end': 36, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+69c3a84f-acdc-4a39-8162-4657869ada5e,completed,684de680-dbb8-47fd-8767-9c5ababecd03,roxinho serrado em tabua,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 24, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+247b8a2c-5202-4f75-9c40-2d76e0eabf06,completed,105235b1-cbc1-4090-9e6c-4fb2c90c93e4,"linha massa 5,0x10 6,5mt-madeira","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3da7a28d-2a56-4b24-9fad-8a0e92d03f02,completed,d2c73f66-9c8d-49cf-92f1-bcc2c9f31888,"linha angelim 5,0x18 3x8 7,50 zani","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a6a2d08d-994f-4c53-ab12-363bdeab8828,pending,38761df1-8ee2-4c5f-af64-2e33d92443da,tento-azul serrado em caibro curto,"[array([{'end': 28, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+f619ca36-c8f3-49fe-863f-4bd29c0a7422,completed,4738aaf2-afd5-42ec-9a08-4753e9389ef9,madeira serrada caibro libra,"[array([{'end': 22, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4b96b221-712b-4c3f-a69e-c75dc1e4ac19,completed,cb4b4532-66e5-4b0e-8249-56c30ed0d353,guajara mad. serrada em tabuas,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 30, 'label': 'CORTE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3e6ecf32-1cc8-49c3-96f5-9a096740d021,completed,1e060703-b039-4c8c-a852-83ae035f8b92,"frechal angelim 5x4 cm 6,00mt","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'ESPECIE', 'start': 8},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 16},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f689ad77-5e79-437f-80fe-ca19ae200f39,completed,0025b047-2aaf-4b52-be30-27abe84700fb,madeira tipo sarrafos esp.macaranduba manilkara huberi (ducke) chevalier,"[array([{'end': 21, 'label': 'CORTE', 'start': 13},
+        {'end': 37, 'label': 'ESPECIE', 'start': 26},
+        {'end': 62, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0bb16ff4-fd29-4e6c-8f88-92d0948bd991,completed,e9ddfd84-6fd8-40b0-8776-cc9c3575f0fc,frechal angelin 5x4 7.5 mt,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'ESPECIE', 'start': 8},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 16},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6673e7ae-66ff-4479-b078-73df6ff22739,completed,7cb32455-8321-4e01-80a1-d4242b490631,madeira serrada em tabuas da essencia marupa(simarouba amara aubl.),"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 44, 'label': 'ESPECIE', 'start': 38},
+        {'end': 66, 'label': 'ESPECIE', 'start': 45}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0cf22e69-8506-4e69-88df-e67ba19d0cbd,pending,67560713-cb27-417f-8657-e487bfb83358,telha colonial cor marfim 3.28x0.86,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+65ad0084-797b-4327-90e3-f44131823159,completed,608ebaf1-dca7-4cef-b22a-4bfb91f2dd75,porta laminada jatoba 90x210 kdk,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 21, 'label': 'ESPECIE', 'start': 15},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6d929ff2-7a39-4614-9f83-24bd8237d04f,completed,1e2bdb16-3e01-4693-89b0-788fee0cc9f5,madeira serrada em tabua,"[array([{'end': 24, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7e5e8b35-276e-494f-af81-eec5b569b2bb,completed,2267a837-656f-43d4-ae7c-7838afb15fed,"janelao 1,50x80 timborana","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'DIMENSÃO', 'start': 8},
+        {'end': 25, 'label': 'ESPECIE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0672fa87-a079-4c3f-b49e-1244d10db478,completed,7cb5242b-d831-4c93-8de7-ddf7162b5609,mad.serrada mista viga 5cmx13cmx5m,"[array([{'end': 17, 'label': 'ESPECIE', 'start': 12},
+        {'end': 22, 'label': 'CORTE', 'start': 18},
+        {'end': 34, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+58901c9b-95cf-426a-950f-c1dbe94b7996,completed,20c4a794-9997-4e5c-8e0d-a5613e07a235,porta lam semi oca 70x2.10 sulina,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b590c1c2-d2b7-4bd8-a3ba-4c0081c25dbc,completed,ac8ddd94-71fb-4db9-9663-609e7ca7a3da,"linha angelim vermelho 5x11 6,5m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'ESPECIE', 'start': 6},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 32, 'label': 'DIMENSÃO', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+75c543a9-3997-4f55-b085-dd95e8f2a7db,completed,fd3b0917-41bb-487e-892e-12d8c4ec5387,madeira serrada em prancha jatoba,"[array([{'end': 33, 'label': 'ESPECIE', 'start': 27},
+        {'end': 26, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+774520bb-d08b-41b2-a0b6-eef132a911bb,completed,d5d27f88-47fb-4c0e-9fc0-1813fe1aff7d,jatoba em alizar,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 16, 'label': 'CORTE', 'start': 10}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+48bf7ef3-014f-4415-a279-4cd4504a101a,completed,b22b2657-ac14-43fa-bea2-59e88531943f,"linha macaranduba 5x29 6,0mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 6},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d7e646cc-18ef-4c53-9b24-f2707c7a3446,completed,7d6beae6-4728-4cd5-875a-25e396053db6,"ripa mixta 4,0mt-madeira","[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'ESPECIE', 'start': 5},
+        {'end': 16, 'label': 'DIMENSÃO', 'start': 11}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4f6ae5be-91b5-4f40-aca8-da339c9ba45c,pending,27008795-773c-48d8-ba69-2f9a99d2ebfc,bobina de aluminio p/calha 80cm,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+d235ee7b-e028-4d93-aa1e-f399cfcab8d8,completed,a2e53602-aa15-494e-9ac3-fce06a12a9ba,madeira mista,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bac5f61b-ddd3-4d0c-ad7a-8888f8ed6124,completed,777b99b3-c7a4-4948-a436-f21fc49ece47,tabua pinus 2 5x30cm c/ 3m,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+130a30f0-25ee-46f4-b985-21a87b35d46a,completed,c2dfc807-d52e-46f1-994a-a542d9c6132d,"frechal misto sao 1 frecham de 8,0mt","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 8},
+        {'end': 36, 'label': 'CORTE', 'start': 31}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+53888c21-8604-4e48-8e7f-5fdec7cd062f,completed,f01261ec-a643-41a5-a8dc-ea00db4426e2,guajara - ripas,"[array([{'end': 15, 'label': 'CORTE', 'start': 10},
+        {'end': 8, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4afcd9f7-820c-4e1c-a56e-d7c531447550,pending,c4dd1c67-c364-4a7f-9e7a-3fe85d3e5547,trelic md 70x90c tec,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+913c7339-3830-435e-820b-9304b56b3272,completed,d4b09b49-f926-4104-98c9-eb4a3744872e,madeira beneficiada em portal de maparajuba,"[array([{'end': 29, 'label': 'CORTE', 'start': 23},
+        {'end': 43, 'label': 'ESPECIE', 'start': 33}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+18941c80-6736-4f12-bd23-5a559956ec06,completed,e5d66f29-09b6-41e3-802c-b2a76104ed52,"caibro de eucalipto 05 x 07 x 5,40m","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 19, 'label': 'ESPECIE', 'start': 10},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e29cea5e-2788-4f63-ad07-0a15a06c4f44,completed,ae9e4e78-3937-498e-9ad8-0b061634ab26,madeira serrada macaranduba (manilkara h. (ducke) chevalier) ripas,"[array([{'end': 28, 'label': 'ESPECIE', 'start': 16},
+        {'end': 66, 'label': 'CORTE', 'start': 61},
+        {'end': 59, 'label': 'ESPECIE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+994be257-c5c6-43a7-b73c-6e19abd20923,completed,d85f014a-3f1b-4452-8b67-fcf4b24fcdca,barrote serrado sarrafos 3 x 5,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'CORTE', 'start': 16},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+70ce2fe1-7e68-4885-8a82-42cbb324c202,completed,a3492403-e003-4e03-86d0-2d6d2c574009,madeira serrada maa aranduba (ripa),"[array([{'end': 34, 'label': 'CORTE', 'start': 30},
+        {'end': 28, 'label': 'ESPECIE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0747c3c6-86aa-4c06-bb12-0f941109ac31,completed,8fe97728-f622-4e79-8b62-100ad764c87f,caibro 5mt,"[array([{'end': 10, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1bb5b303-700a-480c-9279-a0a5db3a58cb,completed,92b7b59a-39e7-47c5-8d7d-f8bbf74e1cc9,porta de almof. horiz. 2.10 x 74 pinus cxd,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 32, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 38, 'label': 'ESPECIE', 'start': 33}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4f71c244-5195-411b-9338-f95002f0c558,completed,65ae3bdd-b03e-434f-aee3-f38f597c3e9c,"linha de angelim 5x9 c/ 3,5 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'ESPECIE', 'start': 9},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 17},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d100f11c-a297-4c37-9e0a-c0f6094f3146,completed,e2b42819-9334-4258-bb01-1c10db3b228d,barrote - serrado em viga,"[array([{'end': 25, 'label': 'CORTE', 'start': 21},
+        {'end': 7, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ccea09c2-6ff0-47c6-aca6-7d495b62a3d7,pending,2441ead8-c0ac-4ccc-9136-81c0ae26a71c,linha p/pedreiro 100mt 1 fio liso laranj,"[array([{'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+45be420f-4ec6-4973-935a-075d9bbf0a86,completed,4116ff54-1c0d-4c4c-bc65-c3f4d6f6fe54,"linha mix 3x8 6,0mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'ESPECIE', 'start': 6},
+        {'end': 13, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5a326f52-955b-45c4-9320-2c4909ea72e4,completed,a0923ac4-5cd3-46f2-b87d-68b172ea21f3,"linha macaranduba 5x13 6,5 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 6},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a7501424-eee3-4fbd-9ddb-04f11c2a5694,completed,f26f4861-b168-4eff-a68b-2abe45229339,"tabua 13cm x 2,5cm angelin vermelho","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 35, 'label': 'ESPECIE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bacde1c0-af13-41ba-b2de-de76791ade18,completed,17de75cc-a5c4-4187-a8b9-7b8ea9a0d0ed,"poste de eucalipto tratada 4,0 x 08 a 10 - eucalpito","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'ESPECIE', 'start': 9},
+        {'end': 52, 'label': 'ESPECIE', 'start': 43},
+        {'end': 40, 'label': 'DIMENSÃO', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+53697e2a-57cd-4ae5-a215-b61d77849dc4,completed,1d3333be-3050-4130-9bfa-fa238675e541,madeira serrada em tabuas na especie muiracatiara,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 49, 'label': 'ESPECIE', 'start': 37}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b476238e-c20e-4f4f-84bb-d698c74d7191,completed,c8615154-7554-4d31-8264-5dbcf1bab23a,andiroba serrado em tabua,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6c8d2b3a-73e7-489a-a8c6-1debbcc7c4fb,completed,71581927-9989-4291-ab4a-96305b27d061,"ripao jatoba serrado em sarrafo 5,00cm x5 cm w2","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 6},
+        {'end': 31, 'label': 'CORTE', 'start': 24},
+        {'end': 44, 'label': 'DIMENSÃO', 'start': 32}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7bbb68c2-2f13-46ca-9016-00c028ef8879,completed,941cb056-24ec-4ab5-aa42-66cbf71bf18c,madeira serrada em blocos na especie angelim-vermelho,"[array([{'end': 53, 'label': 'ESPECIE', 'start': 37}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e43529a5-fcc9-4b5f-bb23-751b0f1c212c,completed,f28dd3f8-8cd1-4f32-bf61-742b9508ff39,amapa amargoso ser - tabuas,"[array([{'end': 27, 'label': 'CORTE', 'start': 21},
+        {'end': 14, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f18c83ed-f232-41a2-9b62-1c895cce4c53,completed,f941e94b-a872-4b4d-bd28-e6803b930462,tiriba - madeira serrada em vigotas,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 35, 'label': 'CORTE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6295da37-2b38-446c-b5b8-f5430d90352d,completed,5fa2cc71-bce4-4777-b87b-553890a678b4,"sapucaia ser - bloco, quadrado ou file","[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 20, 'label': 'CORTE', 'start': 15},
+        {'end': 30, 'label': 'CORTE', 'start': 22},
+        {'end': 38, 'label': 'CORTE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6ff4aed5-ca85-40e0-8e32-a01538d834cd,completed,85eaf5a8-b645-4794-94c2-4be19b6d0374,ucuuba serrada em sarrafos,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 26, 'label': 'CORTE', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2c9c2e31-38b0-4982-a9e8-c0a931654da4,completed,70c8fe0b-1749-47af-9d34-bf317868c103,caibro misto de 6.50,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+071f0d32-057c-4362-92bc-2b269b9199eb,completed,8acd086a-3e85-4878-bbf0-17bd1179d946,ripa guajara verm 1.2x5cm,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 5},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+67f8d673-e04e-48be-a5de-918a686cd7b2,completed,3dac5278-dec9-43e3-8bdd-a5f9f50803ad,sarrafos casca seca,"[array([{'end': 8, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4094e611-44dd-4f1f-8c26-d03570fd62c9,completed,f0bacac2-dbd2-42ee-a5cd-3dfb019c807c,cupiuba-goupia glabra aubl.-serrada em ripa,"[array([{'end': 43, 'label': 'CORTE', 'start': 39},
+        {'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 27, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e319da9f-f7cf-412e-b45e-f1cda49aba38,completed,f4c1fe8d-0048-48bf-abd5-57375d78126b,"linha angelim 5x13 4,5 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4046f5d0-66d8-4607-81b4-e24e3f0b849d,pending,44897058-ea57-44ed-9176-03422255c848,carriola 350 sextavado pequeno 30x12x12,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+e3269c05-9237-4c73-b1ae-cd83788a6c30,completed,6a8ea7ec-ad23-4c6c-845c-342b56847b6a,porta lambri de andiroba 2.10 x 80 cxd,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'ESPECIE', 'start': 16},
+        {'end': 34, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e05da5fe-91a2-435c-b8fa-b43e8781b03f,completed,f1e7e9ed-66e8-4207-8b1e-125e9eb3b737,linha 3x6 madeira angelim mt (5x13),"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 25, 'label': 'ESPECIE', 'start': 18},
+        {'end': 34, 'label': 'DIMENSÃO', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c9ca7ae1-7513-47b3-b937-22db771b2fc1,completed,2f09c759-232d-4c79-804f-cd9ee6840b15,jatoba madeira serrada,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1d3f76f5-0517-4871-9833-77cf8015bf18,completed,643f9067-5463-4249-9019-371721373d90,timborana serrada em tabua( class 27),"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 26, 'label': 'CORTE', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c3b874fa-c17b-4de8-80e3-761c82f8bde4,completed,abc58df6-e746-47fd-a5e4-a43fbbb9044f,jarai madeira serrada tabua,"[array([{'end': 27, 'label': 'CORTE', 'start': 22},
+        {'end': 5, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+79686fd0-d8ca-4c5c-86e8-c471b0e2505c,completed,62d28fc7-173a-42c5-82f2-bfffe3279c81,"cx porta 0,80 x 12,5 x 2,10","[array([{'end': 8, 'label': 'ESPECIE', 'start': 3},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 9}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0985c958-f8d7-459a-837b-555574fe4c21,completed,c554dbeb-a71a-4f81-af95-d0aaaf294ea2,madeira serrada em viga tauari,"[array([{'end': 23, 'label': 'CORTE', 'start': 19},
+        {'end': 30, 'label': 'ESPECIE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+26782f79-7483-4a37-9f73-38cce627e8bc,completed,5dc27553-bb49-44e1-a3f8-9aa9f4ca29d5,"linha 5x11 de angelim c/ 6,5m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 21, 'label': 'ESPECIE', 'start': 14},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1a8b46f6-850a-4aa4-a7d6-c04906e99fe4,completed,bb05483d-88e7-4ccd-82fb-d9e60cc68950,araracanga serrado em vigota,"[array([{'end': 28, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+37870a02-631d-4509-97c2-7aff3f1286ff,completed,0b029679-bd37-401a-a26a-9bba1d6f3bee,madeira serrada tipo (prancha) da especie cupiuba,"[array([{'end': 29, 'label': 'CORTE', 'start': 22},
+        {'end': 49, 'label': 'ESPECIE', 'start': 42}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d428e54d-5dc5-4013-bfb7-dc3c0aa276e2,pending,99a3e2a5-1440-499d-bbbd-1c43abe284ac,bolsa divas mademoiselle - poliester / term marsal,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+e5845d9f-c711-4696-8479-fbe7b3167012,completed,9e10daab-8765-431d-aaa8-60b7034b0676,madeira serrada em prancha da essencia - jarana,"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 47, 'label': 'ESPECIE', 'start': 41}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f300335a-b20d-4579-92e5-68bee1384d16,completed,6ebe549f-abae-4479-8818-d2159ed7eea5,ipeuba serradaprancha,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 21, 'label': 'CORTE', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c212f7fe-6431-4fc1-87a1-94d1e9cf9581,completed,285e63bc-94d8-48ee-902b-9dda885fa37e,"taxi-preto serrada caibro - 5,0x5,0 cm","[array([{'end': 10, 'label': 'ESPECIE', 'start': 0},
+        {'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 38, 'label': 'DIMENSÃO', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1eb0dfcb-8944-4cf1-a56e-ad6bf01f10a7,completed,024c847c-8478-4764-bf02-f25a923ba2d0,porta laminada 2.10 x 1.04,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e9e5d6c4-7968-41ba-8de5-f1951911d567,completed,f8a09be0-f35a-4a4d-98ac-6cb597602205,produto acabado - portas de calha - da especie uxirana,"[array([{'end': 24, 'label': 'CORTE', 'start': 18},
+        {'end': 54, 'label': 'ESPECIE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+34ac478d-f76f-4a0c-b983-c3975c944dd4,completed,6914355c-5032-49fc-9de5-e647af785986,sarrafo cupiuba,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d0b64b26-f5ec-4045-8eb6-baa7e8461845,completed,b149ab7e-f57a-40e7-9c93-853ec2c059c8,"garapeira 3,50 x 9,00 caibro 1,50 mt","[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 36, 'label': 'DIMENSÃO', 'start': 29},
+        {'end': 28, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+27377fc1-d02c-467b-9088-1dd7465a04d0,completed,6d51effe-80b6-4709-b557-9f575d4740db,linha 5x09 angelim 7.00mt,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 18, 'label': 'ESPECIE', 'start': 11},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+83ca09fb-fa9c-4be1-b0ba-7c16030dde88,completed,284d833d-6912-46fb-8c32-75afc5de7f9b,"madeira serrada do tipo ripa especie pequia(1,2cmx5cm)","[array([{'end': 28, 'label': 'CORTE', 'start': 24},
+        {'end': 43, 'label': 'ESPECIE', 'start': 37},
+        {'end': 53, 'label': 'DIMENSÃO', 'start': 44}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d213526f-defa-4dcc-acf4-11592a6139a6,completed,7a7a54b3-dbec-4bba-bca5-9028031402f9,"caibro angelim 3x5 7,0mts","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 7},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 15},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6117b683-596c-4667-bcf8-797359039987,completed,b887cbc1-066a-49ac-a05a-0f3566ad19df,"alizar macaranduba 5 x 1cm c/ 5,40mt","[array([{'end': 18, 'label': 'ESPECIE', 'start': 7},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 19},
+        {'end': 36, 'label': 'DIMENSÃO', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0b6d44ec-6569-4096-9b60-73018ce60862,completed,290cdf1d-fc7b-4ec8-91a3-e9e8765a59bc,melancieira serrada em pranchas,"[array([{'end': 31, 'label': 'CORTE', 'start': 23},
+        {'end': 11, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4f9d97b6-fc71-45ed-a92e-1c2bdb01a720,completed,a1365ee4-6979-4dd1-94b4-ca1763e1b486,madeira serrada (prancha) da especie - jatoba,"[array([{'end': 24, 'label': 'CORTE', 'start': 17},
+        {'end': 45, 'label': 'ESPECIE', 'start': 39}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+619703ff-d5f0-4c2c-82ce-a15299f300c9,completed,16b9b54e-89a3-48c7-8fe3-a1c84dd9465b,"piquia 5,0 x 0,30 x 0,04","[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1d92a55c-3b73-4d16-b9be-df15e36d78d2,completed,88a7c7c6-6188-49ba-9bc2-c7b7756ff3dc,caibro angelim 5x3 cm,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 7},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d257b70b-c0ab-4c7c-9f83-7ed1ea32c96f,completed,77341435-8f5d-4584-b164-df11f5236f2a,timborana-piptadenia suaveolens miq.-serrada em sarrafo,"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 31, 'label': 'ESPECIE', 'start': 10},
+        {'end': 55, 'label': 'CORTE', 'start': 48}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b8089704-43a4-4c4f-8d39-bfdf5f7c4352,completed,eef0264d-0fa8-4eb3-94f5-713a86d5e0e9,"caibro guajara c/ 4,50 mts un 1","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 7},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+782fea67-7efe-438d-8a14-28592b8a2d25,completed,96b2f9d5-95f8-4ec3-bf23-e4b33c4a74b4,"viga mista (6,0x12) cupiuba","[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 5},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 27, 'label': 'ESPECIE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+65ea022b-efa3-4e5c-922e-d1bd03a5c97b,completed,f4e820c2-f093-458e-9c90-84820e47937a,louro - tamaquare - serrado em vigota,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 37, 'label': 'CORTE', 'start': 31}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+361c449e-f72b-48cb-9896-b4c4868bd0fa,completed,60d81c62-511b-447c-b218-011a35f7c36e,tabua para churrasco n/6 alves,"[array([{'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e9e909dd-6dbf-4963-8fcd-123d978963d6,pending,2693137f-1fe7-43e9-b324-6fe816bd1baf,mao francesa 60cm mista,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+ae3582e7-3675-4a09-9b6e-41c559c8a326,completed,cb344ecd-f9d7-461b-a1bc-068aec9900c2,"poste de eucalipto tratada 4,0 x 06 a 08 - eucalpito barrote","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'ESPECIE', 'start': 9},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 27},
+        {'end': 40, 'label': 'DIMENSÃO', 'start': 38},
+        {'end': 52, 'label': 'ESPECIE', 'start': 43},
+        {'end': 60, 'label': 'CORTE', 'start': 53}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b2a3c55e-8ad0-4f5b-a496-9bf93c628b0c,pending,b11d9720-72ff-4e11-b28c-2873315969f1,aparador em madeira,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+b78599f4-ed3f-4294-9e4d-30bf866ed032,completed,b1d24bbc-2003-4d4a-bb9e-5d6d69794252,madeira serrada em tabua da essencia - guaruba-cedro,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 52, 'label': 'ESPECIE', 'start': 39}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a3268bdc-96b7-429c-bc6b-96fab690aa2c,completed,cae84118-6267-4bb1-ab33-3c166f9cbcc4,andiroba serrada em sarrafo,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 27, 'label': 'CORTE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ba3fecd0-31b9-4028-8926-33d66fb75383,completed,56e5bc7a-8001-4913-aa01-18956c130a85,madeira de subprodutos florestal para o uso final tipo portal (aduelas) da especie macaranduba,"[array([{'end': 62, 'label': 'CORTE', 'start': 55},
+        {'end': 94, 'label': 'ESPECIE', 'start': 83}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6f8f5ce3-b402-4756-829e-a278b71e6731,completed,40c0c64c-770a-4367-b876-dd0599abeb4d,pecas massa. 2.10x10.2.5,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9ad37be7-1087-44a0-a2a6-06a5d857d78b,completed,6e5f1c8a-1130-441f-a7d9-fef402ef9829,linha macaranduba 6x15cm,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 6},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a6cb3a73-e384-4fdc-ada1-e35c26c7f2c3,completed,e6326a0c-5b3f-4905-8451-fcd70e189f51,"prancha - angelim-vermelho (dinizia excelsa) bruto, normal, fas, ad, madeira serrada","[array([{'end': 26, 'label': 'ESPECIE', 'start': 10},
+        {'end': 43, 'label': 'ESPECIE', 'start': 28},
+        {'end': 7, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+042c125a-7682-4ee8-ac76-681573d3938b,completed,208a5aba-0a1d-4428-86cc-7c2c99c61a87,"serrado tipo viga 13cm x 5cm x 4,5m","[array([{'end': 17, 'label': 'CORTE', 'start': 13},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+936338d4-6109-44ac-a15b-272ca6e905a5,completed,e0959f24-e808-4d08-9874-6adfa0a6c6c1,madeira serrada (tabua) hymenaea courbaril l. - jatoba,"[array([{'end': 22, 'label': 'CORTE', 'start': 17},
+        {'end': 45, 'label': 'ESPECIE', 'start': 24},
+        {'end': 54, 'label': 'ESPECIE', 'start': 48}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e89ec217-8f3c-4203-8647-6ebdf0644d85,completed,a4ec1d3d-94b5-4b45-8847-7512687a1acc,madeira serrada pranchao desd. timb./ pip. suav.,"[array([{'end': 24, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ef70d37a-0561-47a9-b051-c113d035deea,completed,c06b372d-e31d-4248-84fe-dd0802a3405f,madeira serrada (vigota) da especie tauari-vermelho (cariniana micrantha ducke),"[array([{'end': 23, 'label': 'CORTE', 'start': 17},
+        {'end': 51, 'label': 'ESPECIE', 'start': 36},
+        {'end': 78, 'label': 'ESPECIE', 'start': 53}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b1d73095-7747-4ec6-a49c-ac2ea52db139,completed,dfad02de-0b0b-4eec-8b87-0b871ee95c73,"3727 - madeira de eucalipto 0,25x0,25x6,00m relorestamento","[array([{'end': 27, 'label': 'ESPECIE', 'start': 18},
+        {'end': 43, 'label': 'DIMENSÃO', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2df1c3b7-9d6f-4ff4-9f37-2f480fc93107,completed,a2c8f14d-7521-485e-8244-38e6a9c107ec,caibro misto 5x3.5,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+45db3a90-b36b-4d17-b635-276f4bd90d53,completed,36cf03e4-6581-4167-a253-3918118bb3b9,"madeira mista 06x06 2,5 mts","[array([{'end': 13, 'label': 'ESPECIE', 'start': 8},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b0581aae-2d51-440b-a374-07f0bff9e4d2,completed,c94ea0a3-a54e-4292-a244-fc3805943513,tabua pequia 2 2 x 20cm 5 5m,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 6},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bc64f36a-5bb7-424c-bd9e-dc42948235ec,pending,88163417-429c-428a-ba64-2cdefc02764f,puxa saco 141 arte francesa,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+1abca436-c090-46c2-966b-e89c463436ab,completed,fb494ae9-a9d0-4a2a-8655-9dd250738ce0,cachepo vazado 180x180mm eucalipto stain jatoba na,"[array([{'end': 24, 'label': 'DIMENSÃO', 'start': 15},
+        {'end': 34, 'label': 'ESPECIE', 'start': 25},
+        {'end': 47, 'label': 'ESPECIE', 'start': 41}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+734f13cc-e8b5-406e-b1dc-500e05058efd,completed,10ab0550-363f-4df8-b51e-48efc5d6a8a0,"linhas de 6,5 metros de 12c","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3d79bcbb-040d-4f8b-a3e6-dbdca3bf3e22,completed,f8ce529e-a2a2-4701-86ae-6866edd6d79e,"caibro angelim vermelho 3x5cm 5,00m","[array([{'end': 23, 'label': 'ESPECIE', 'start': 7},
+        {'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 24},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f62c8683-85e5-4106-9e6f-cc3cf1598dca,completed,8a9715dc-26ff-4863-97bb-97c637c8cea8,madeira serrada louro-vermelho em tabua,"[array([{'end': 30, 'label': 'ESPECIE', 'start': 16},
+        {'end': 39, 'label': 'CORTE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+041706ca-18c6-4e62-b771-9edbcf4868bc,completed,5031e2eb-29f5-4255-a4b8-2a23f56525d1,abiurana madeira serrada em viga,"[array([{'end': 32, 'label': 'CORTE', 'start': 28},
+        {'end': 8, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+56859159-fecf-4541-bffa-8a13faeb6411,completed,de459f50-0a60-4a99-97c4-adb90f6468ad,vigota macaranduba 5x10x1,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'ESPECIE', 'start': 7},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+672f77e4-6f39-4f4f-85b5-f437277bbafc,completed,209b7b71-92d9-4908-bb24-1268ec6f33ec,"tabua pinus 13 x 2 cm c/ 3,00","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a6dcd3ee-c909-41f3-967e-00be31f58b19,completed,6ac4257a-d7f6-4205-8622-66fc2d6a13b7,"madeira serrada em ripa (mista) 1,2x5","[array([{'end': 30, 'label': 'ESPECIE', 'start': 25},
+        {'end': 37, 'label': 'DIMENSÃO', 'start': 32},
+        {'end': 23, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+eea6f0d1-d963-4466-aca6-2db9ba4f5499,completed,ee0b72e9-eaf8-4221-a542-a8d2a20ae97d,"linha 5,5 x 10 cm 3x4","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f375b598-2248-46b2-b66f-e7b091ac8c50,completed,c101b358-16c3-48b6-adca-d77a0f5fc999,madeira serrada macaranduba (manilkara huberi (ducke) chevalier) tipo sarrafos,"[array([{'end': 28, 'label': 'ESPECIE', 'start': 16},
+        {'end': 78, 'label': 'CORTE', 'start': 70},
+        {'end': 63, 'label': 'ESPECIE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+eb42ae43-cbd6-48e4-8dc4-3f56b903ac13,completed,b02c5dca-2bf8-4e67-bc79-7f400ee9568f,anani da terra firme serrado em viga,"[array([{'end': 36, 'label': 'CORTE', 'start': 32}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6343a6c1-5332-4700-839b-a643f22f2200,completed,2e80d114-11ec-48d3-be80-34b4c9c82d10,coco-pau madeira serrada em vigas,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 33, 'label': 'CORTE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3ff80e66-6fb4-4ab1-be0e-f41d01ae2a0f,completed,fe79e799-9918-4dbe-a050-5a15c04203dd,"caibro 6,0","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5db45368-a80c-471b-8889-52dcbd2feec7,completed,74972659-278e-4c04-95ac-3377fbd589e5,sucupira serradaprancha,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 23, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6ef7ad20-b003-4212-9920-0c932f10130f,completed,911e97e3-ba91-41b8-8bd7-5a5b44d4d1ca,angelim amargoso serrado em tabuas,"[array([{'end': 34, 'label': 'CORTE', 'start': 28},
+        {'end': 16, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+04d21cce-6ddb-4b7c-beb2-a809d0907482,completed,3940f2ab-17b2-408a-993b-fb869fc5de91,"linha mix 3x4 4,5mt madeira","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'ESPECIE', 'start': 6},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 10}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+02c9674a-834c-430e-941d-0ce4b71be8c7,completed,32b536bb-0060-428a-a2cc-4d8e99c8f11a,madeira beneficiada produto acabado lambril da especie de jatoba,"[array([{'end': 64, 'label': 'ESPECIE', 'start': 58},
+        {'end': 43, 'label': 'CORTE', 'start': 36}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c5a05f17-468a-4266-92d3-b2df3adafb9d,completed,75ee9250-bd03-488f-995a-de7a2e5ccda9,"garapeira 3,50 x 9,00 caibro 3,00 mt","[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 28, 'label': 'CORTE', 'start': 22},
+        {'end': 36, 'label': 'DIMENSÃO', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b5f1f3a0-e810-4d82-b8e7-af8dc6a2b0ff,completed,3ad87274-c012-4104-8b7b-518da9ac30fb,"linha angelim vermelho 6x15cm 3,00m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'ESPECIE', 'start': 6},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e5b3ad9e-8d72-4add-935a-cad08582675d,completed,fedbcb66-37a1-435d-9e5a-d1810fe873b7,madeira serrada na especie muiracatiara - tabuas,"[array([{'end': 40, 'label': 'ESPECIE', 'start': 27},
+        {'end': 48, 'label': 'CORTE', 'start': 42}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a97e9180-794a-4593-b536-c2d789ae5ed7,completed,9cc8e863-4fd6-4dbf-a871-39afc5fb8a5c,madeira serrada da especie popular cedrorana em ripa,"[array([{'end': 44, 'label': 'ESPECIE', 'start': 35},
+        {'end': 52, 'label': 'CORTE', 'start': 48}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a59f4f4a-c78a-4e63-a742-3367736e1cf8,completed,6c70cc55-f89a-429f-8ee6-41678332b70e,andiroba serrada em caibro,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 26, 'label': 'CORTE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7f511376-be32-4fb9-b9db-34190a773508,completed,72f9c325-0cda-4ab2-9384-746237f4c229,tabua de pinus 3mx25cm,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 9},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c2e719d8-1f62-4c18-b2c4-58859962cee2,completed,41c37ee9-3bab-484f-8aa7-c6e64a654aa0,linha 5x11 mista 7.0mt,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 16, 'label': 'ESPECIE', 'start': 11},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+427ee63b-b02f-47c9-8d00-4fe4130f96ed,completed,a16d507c-6419-4f5f-b4c5-2351a8941f45,madeira jatoba serrada em prancha,"[array([{'end': 14, 'label': 'ESPECIE', 'start': 8},
+        {'end': 33, 'label': 'CORTE', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8028200c-4532-4148-9d05-df8c8815571a,completed,141f053e-f70f-4223-8d29-548b980692bd,26 - breu madeira serrada em caibro,"[array([{'end': 35, 'label': 'CORTE', 'start': 29},
+        {'end': 9, 'label': 'ESPECIE', 'start': 5}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+244e6b5c-3c4a-434c-a719-5c3f22de6864,completed,66631a37-96c1-455e-82ec-9277bdf458b8,linha ang. 5x11 (mt),"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'ESPECIE', 'start': 6},
+        {'end': 15, 'label': 'DIMENSÃO', 'start': 11}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3a032858-4be5-497e-8ff0-e29666259936,completed,541ea344-3db3-4a38-bb8f-a912997d30a6,itauba serrado em vigota,"[array([{'end': 24, 'label': 'CORTE', 'start': 18},
+        {'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6b00c0de-e4cd-4dca-846b-484b6ba79ed2,completed,ba005ee3-b2e3-4722-bbc7-38fe4f3c5d65,s2s (ripas)  cumaru,"[array([{'end': 10, 'label': 'CORTE', 'start': 5},
+        {'end': 19, 'label': 'ESPECIE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+92939f20-be0b-4188-b2f9-f9ef6a797790,completed,d02e1975-64d3-44bc-8894-c2684ca7b1b3,madeira da especie maparajuba serrada em sarrafos,"[array([{'end': 29, 'label': 'ESPECIE', 'start': 19},
+        {'end': 49, 'label': 'CORTE', 'start': 41}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+dda9def3-496f-4cde-9e2c-cf1a315d4e56,completed,e6cc263e-6c29-425f-a31c-249d6f3239c8,jatoba-hymenaea courbaril l.-serrada em tabua,"[array([{'end': 28, 'label': 'ESPECIE', 'start': 0},
+        {'end': 45, 'label': 'CORTE', 'start': 40}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+35e2991d-75fd-46cd-a05f-c265111fcdd5,completed,585e5fba-13c5-4270-bcac-ffc3dff659b4,madeira serrada sarrafo manilkara huberi,"[array([{'end': 23, 'label': 'CORTE', 'start': 16},
+        {'end': 40, 'label': 'ESPECIE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a04d9c73-23f9-40cf-b9dd-2b4cfca026c7,completed,13c5084c-7d19-4e88-961d-5bee3441b62c,madeira serrada viga da especie guajara - bolacha,"[array([{'end': 20, 'label': 'CORTE', 'start': 16},
+        {'end': 49, 'label': 'ESPECIE', 'start': 32}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d5698971-5638-4622-9eb6-efde158e65ab,completed,f863d313-0b5f-4605-bd07-a9ddf5f11a62,sarrafo / manilkara huberi - macaranduba,"[array([{'end': 26, 'label': 'ESPECIE', 'start': 10},
+        {'end': 40, 'label': 'ESPECIE', 'start': 29},
+        {'end': 7, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+781e3ab3-43e4-4a26-ad94-bc511ff3cb8e,completed,64fe6c6d-78ac-4fe5-9f15-91b75afe1993,sarrafo 2 5x7 5cm em pinus mista ou bruta,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 26, 'label': 'ESPECIE', 'start': 21},
+        {'end': 32, 'label': 'ESPECIE', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+15238aea-cbee-4939-a8d0-0c2098be1d39,completed,cd33161a-64eb-4fd9-81f0-536826dff6fd,madeira serrada em vigas na especie guajara,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 43, 'label': 'ESPECIE', 'start': 36}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+05aa05c1-484c-46f4-8431-687753305d66,completed,ba4fd1be-81b1-4cbf-8be1-23416c076653,madeira angelin diversas bitola,"[array([{'end': 15, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+61a44722-e691-47bb-8bac-e4967d6333cd,completed,1d4969fe-0512-4295-8190-4a2bd6962a48,madeira angelim vermelho industrializada de residuo  ( caibrinho ),"[array([{'end': 24, 'label': 'ESPECIE', 'start': 8},
+        {'end': 65, 'label': 'CORTE', 'start': 55}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+27ca9412-e280-4603-86d7-3c32b11e7777,completed,ead1c4bc-c23e-4df1-848a-b233a92af93a,madeira serrada em prancha - caucho,"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 35, 'label': 'ESPECIE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+202fb40d-08ad-4ce9-9298-a026989e370c,completed,8265c393-f803-46c3-9089-3ccfbc4f43ce,muiracatiara madeira serrada pranchao desdobrado,"[array([{'end': 12, 'label': 'ESPECIE', 'start': 0},
+        {'end': 37, 'label': 'CORTE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+36c08be7-a0fe-419f-afa4-024dda6da4d2,completed,7fc3355c-9719-4f35-962c-4d9b163a4a10,andiroba(carapa guianensis),"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 26, 'label': 'ESPECIE', 'start': 9}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+00d0820f-8b0b-4c95-bfbb-1bbf76701fb8,completed,d6f251d2-36a4-4e49-8f40-cf1e2cdeae4e,"linha angelim 5x09 5,50mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+20f315c8-634d-4232-8a9c-28596463bb8e,completed,a5e20844-6c40-4efb-b8fc-b1868073fb4a,caibro massaranduba 1.0 metros,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 19, 'label': 'ESPECIE', 'start': 7},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+af68cfaf-e2fe-4da0-8a82-a968f5c99062,pending,5230bd10-d115-43a2-9aa1-6b7df00d559e,ccheot md vzdo 18x47c tec,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+0b77af01-3d60-4db3-846d-83c1c923fd54,completed,b26c53f5-3d9f-4b41-b3d8-2ebe00de5bf4,"caibro angelim 5,5mt","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 7},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+77bc5b75-c4f5-4619-a520-e9c0b4d58a82,completed,33210808-4e11-4f41-b091-1a35aa456aa7,madeira serrada da especie mandioqueiro tipo viga,"[array([{'end': 39, 'label': 'ESPECIE', 'start': 27},
+        {'end': 49, 'label': 'CORTE', 'start': 45}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cfb2080e-2ab0-4661-bc6f-ca8b099a785c,completed,4bffd785-cee6-4e77-95f2-144d5d7a101f,cedroarana serrado em ripa,"[array([{'end': 26, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+63992640-4430-4b3a-8a82-fc58ca2053b6,completed,3b49efd3-4828-4b43-bc8f-4246577c5604,madeira serrada de jatoba do tipo sarrafo - hymenaea courbaril l.,"[array([{'end': 25, 'label': 'ESPECIE', 'start': 19},
+        {'end': 42, 'label': 'CORTE', 'start': 34},
+        {'end': 65, 'label': 'ESPECIE', 'start': 44}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8979bc8f-d13f-4776-af40-85e6232fd6ef,completed,d982b33a-d8b4-46c9-a186-a8112581eb12,madeira serrada tipo sarrafos da especie angelim-vermelho - fsc 100% ima-coc-160121,"[array([{'end': 29, 'label': 'CORTE', 'start': 21},
+        {'end': 57, 'label': 'ESPECIE', 'start': 41}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4d70eb38-b578-43ab-9d8f-edbf77b22d76,completed,70c01b4f-7980-4804-9a76-a479b4f2c73d,louro produtos do serido 05g pct. c/20 und.,"[array([{'end': 5, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a9e3502c-9b3a-4318-8927-bc0f908d817f,completed,f492555d-5a10-49f1-8a34-be2531561d30,caibro 4.00 mt,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'DIMENSÃO', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6bdd415f-d569-401b-a7e5-6aaa44ce05a2,completed,3c179fc8-7d9a-4aae-9cc0-384fc2506cb1,"linha 5x18 de angelim c/ 2,0 m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 21, 'label': 'ESPECIE', 'start': 14},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+96cad5c7-5bff-49b6-aa48-e9da2f8d89fa,completed,7963c04e-3f80-43d5-8c24-95ac2a32ad59,madeira serrada tabua de andiroba,"[array([{'end': 21, 'label': 'CORTE', 'start': 16},
+        {'end': 33, 'label': 'ESPECIE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3428f3c7-9fba-4982-93df-a2e9ad1be973,completed,8f3320b3-a1e3-49d7-ad8d-803010eb728f,"(p) viga nao aparelhada *6x16* cm, em macaranduba-padrao","[array([{'end': 8, 'label': 'CORTE', 'start': 4},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 25},
+        {'end': 49, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9dd294df-8509-4ba9-9bbf-77995fa4ac2b,completed,7c0b9703-ca11-436f-95cc-e1e450d8ffe8,timborana serrada sarrafos,"[array([{'end': 26, 'label': 'CORTE', 'start': 18},
+        {'end': 9, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4218ac17-2871-448f-8085-55da9d7cc5fb,completed,cc05feaa-1f31-4815-b84c-75d1c89cf071,madeira serrada em ripas de jatoba,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 34, 'label': 'ESPECIE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+98dfe2da-c790-46a9-8271-d51421481acf,completed,03796e17-698e-4713-b466-644e45a21e80,produto acabado em portas de calhas da especie taxi,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 51, 'label': 'ESPECIE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cc727ddb-4a18-4f00-be42-aa81daba229c,completed,2b999e8a-d64c-49d4-b1a0-d4fa91a242bc,madeira serrada caibro da especie - acapurana,"[array([{'end': 22, 'label': 'CORTE', 'start': 16},
+        {'end': 45, 'label': 'ESPECIE', 'start': 36}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+11eeab8c-88a9-4917-a356-bbdebdc593c8,completed,dc322684-70f3-4f29-b855-6e70f59809ea,porta lambril estreito 80x210 jatoba,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 36, 'label': 'ESPECIE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a68c246f-f6ec-4c0d-a764-51efe5b6c997,completed,723464e5-e08c-4f00-b340-6692dfc101f2,"caibro 2,00m(3x5)(0,0030m3)","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 16, 'label': 'DIMENSÃO', 'start': 13},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+54466bb6-52a2-4311-b1f5-06e166878362,completed,77467fe8-63d4-4cae-9bc6-46ef73828962,madeira serrada viga da especie de macaranduba - manilkara huberi (ducke) chevalier,"[array([{'end': 20, 'label': 'CORTE', 'start': 16},
+        {'end': 47, 'label': 'ESPECIE', 'start': 35},
+        {'end': 83, 'label': 'ESPECIE', 'start': 49}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a500e74c-1c9a-419f-9960-484f724adc1b,completed,39b6c539-e657-4cbc-9537-760d544ecf23,madeira serrada da especie louro-vermelho tipo tabua,"[array([{'end': 41, 'label': 'ESPECIE', 'start': 27},
+        {'end': 52, 'label': 'CORTE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b0c8d0a4-b09e-4765-9175-97e5b3c141cb,completed,73d50f67-11b7-4213-9438-220677f1c23a,barrote c/ 5.0mt - misto,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'DIMENSÃO', 'start': 11},
+        {'end': 24, 'label': 'ESPECIE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b210a2ba-68d3-45ce-8034-994cbcc7b113,pending,ed3f60c0-8280-456e-91a9-9fd24e6ce0de,deck ipe,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+cbe001a7-b0a1-40ec-983c-d81eeb005940,completed,195f77a3-99a4-4843-9fdf-ee411bd1d2ca,manilkara paraensis (huber) standl.- maparajuba- 64- sarrafos,"[array([{'end': 61, 'label': 'CORTE', 'start': 53},
+        {'end': 35, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2bda2d19-f1b3-4f7a-b564-748fcdc97f09,completed,e0d2545c-18bd-4c1f-a530-20276abdbddb,hymenolobium petraeum ducke- angelim-pedra - 24 - prancha,"[array([{'end': 42, 'label': 'ESPECIE', 'start': 29},
+        {'end': 57, 'label': 'CORTE', 'start': 50},
+        {'end': 27, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f6309e2f-4ed5-44da-9f34-12815b503c03,completed,3c72d7c7-5432-4f73-9eed-51bae868075a,esquadria tabicao cx dupla jatoba m2 1,"[array([{'end': 33, 'label': 'ESPECIE', 'start': 27},
+        {'end': 9, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f985379c-0047-478a-81d3-27bb89ddf9a9,completed,a0dc656e-830d-40f2-a131-c965d522a66b,macaranduba madeira serr em tabua,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 33, 'label': 'CORTE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f565db40-7e1d-4a06-8f8c-2af3360ad9e6,completed,701ed8e8-d122-451b-bb5c-13e37ee9a64d,"caibro macaranduba 2,5metros","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'ESPECIE', 'start': 7},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+16b3c418-bb80-4213-95e9-aa2b222f1e78,completed,df91b142-9210-482f-8dc7-3e42418c40e5,"linha angelim 5x18 5,0 mt","[array([{'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ff3d1bcf-ae42-46f3-a213-e4173875269d,completed,39a1551b-7b43-4351-b506-208193c2da04,tanibuca serrada - vigota,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7c9838cc-f2cf-45ca-805b-e5d5efbee39b,completed,7b60cdd6-1773-4856-af25-3ea6ba534c47,madeira serrada vigota jatoba,"[array([{'end': 22, 'label': 'CORTE', 'start': 16},
+        {'end': 29, 'label': 'ESPECIE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f7fad191-be11-44ed-bba6-cd3e64aa95e4,completed,a2d3e9e6-2e07-4dac-bb53-13c69126c9c5,cumaru serrado mad.ind.de residuo ripa,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 38, 'label': 'CORTE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ab6f1598-975b-4463-8253-8ad6cf7d13e4,completed,20783c35-b977-449b-9587-4615960a1e2c,pequia serrado em caibros,"[array([{'end': 25, 'label': 'CORTE', 'start': 18},
+        {'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e830ba4e-1278-42e4-821a-d27cb35608b7,completed,08317363-276b-494b-bdb6-ac722ae7013a,madeira serrada em tabua/taipa na especie muiracoatiara,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 30, 'label': 'CORTE', 'start': 25},
+        {'end': 55, 'label': 'ESPECIE', 'start': 42}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+513016ca-db23-464e-9155-26c925f2dd84,completed,e24bb976-661f-468f-9cac-9cd456a4c8de,maparajuba serrada viga,"[array([{'end': 10, 'label': 'ESPECIE', 'start': 0},
+        {'end': 23, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+38170573-0f75-4257-a7aa-83a07bf8829f,completed,b6a8fa31-f07b-44f7-af4f-ddf2974ec6a7,prancha andiroba,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4fbc9d27-c590-4cfa-8821-01cdc9bccbe5,completed,4d30c700-3112-4907-a1bf-1de24ee68eb9,madeira serrada em ripas de breu,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 32, 'label': 'ESPECIE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a34e4d1d-c6f3-4ae2-a4fc-eede57986589,completed,785d5d05-df46-4de1-b9fd-99fac1c8b40f,"(02541) caibro macaranduba 3,5 ()","[array([{'end': 14, 'label': 'CORTE', 'start': 8},
+        {'end': 26, 'label': 'ESPECIE', 'start': 15},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ddc4ac67-d01f-48ee-891e-e4dbc2465bd9,completed,ecbe8e12-e81f-4f96-bc28-f76d0eb5d048,"linha massa 5,0x10 6,0mt","[array([{'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2f3319e1-b4e2-46cf-90f8-04add131b433,completed,509a9af1-80ad-4e55-a4c4-3ee0e9deed6d,madeira serrada - quadrado - angelim-ferro,"[array([{'end': 27, 'label': 'CORTE', 'start': 18},
+        {'end': 42, 'label': 'ESPECIE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c597d366-84ef-4c16-83d3-43d43673c754,completed,d9a5b87d-3389-41e0-aae2-7d6a662a7326,janela 1.00x1.00 lambrim louro canela,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 37, 'label': 'ESPECIE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f25296ef-8fd9-4879-9b74-6c4b571ec318,completed,9e503eb3-fbc0-4005-94dc-f2abaf40e61d,tabua / prancha  andiroba,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'CORTE', 'start': 8},
+        {'end': 25, 'label': 'ESPECIE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7cc1ca0a-965f-43f4-8278-9da6eedf20cb,completed,8944a2a2-8dc9-4428-abd2-ca8be2027389,"pranchao de madeira  4,0cm x 30cm x 2,75m","[array([{'end': 8, 'label': 'CORTE', 'start': 0},
+        {'end': 41, 'label': 'DIMENSÃO', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8a90e960-8d62-459d-90a4-80733a4406f9,completed,ffb0de12-133d-4a62-b070-b79d3516d0c6,timborana serrado em sarrafo,"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'CORTE', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+96cb75f8-47c1-4548-9ad1-8179e5ce8750,completed,10298e1d-5f98-4377-be9f-0c511a362b32,maracatiara serrada tabua,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+91464dea-dada-4c18-9396-0ccebd8160ff,completed,3b707e0b-1143-47f8-8723-134f41c809bf,"caixa de porta mant. 0,70x2,10","[array([{'end': 14, 'label': 'CORTE', 'start': 9},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7134fd5b-2def-4008-9236-513271c85e1d,completed,855cb220-e83c-4b32-b553-ba0258c446d3,"porta timb. lambri 0,70 x 2,10","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'ESPECIE', 'start': 6},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7e544cde-d9a0-446a-ae38-a7fec783a1be,completed,b73d943c-7388-49b9-b15f-bc851a06682c,melancieira madeira serrada em tabua ( taipa ),"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 36, 'label': 'CORTE', 'start': 31},
+        {'end': 44, 'label': 'CORTE', 'start': 39}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2b92247f-f13f-49b2-9ffd-690cafc1db2d,completed,c2294c73-d540-4dd4-a822-9f986336bdda,"caixa de porta 0,60x2,10 jatoba","[array([{'end': 14, 'label': 'CORTE', 'start': 9},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 15},
+        {'end': 31, 'label': 'ESPECIE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b4b315b3-077a-4cf0-8633-9abc07fc05ad,completed,361ff390-d7f9-489e-8eb7-0b4874043f17,mad. serrada tabua (taipa)- timborana,"[array([{'end': 37, 'label': 'ESPECIE', 'start': 28},
+        {'end': 18, 'label': 'CORTE', 'start': 13},
+        {'end': 25, 'label': 'CORTE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4b7290cf-6b36-43f2-8ed9-b5f838b33bc5,completed,2cf06710-90c5-4b5c-ad7d-27f4b0514101,"madeira de pinus sarrafo 0,25 x 0,50 x 2,70/3.00 mt","[array([{'end': 16, 'label': 'ESPECIE', 'start': 11},
+        {'end': 24, 'label': 'CORTE', 'start': 17},
+        {'end': 51, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6385fc8e-c308-46ba-9137-b4689fdbbd7b,completed,518f98bc-1c1c-4429-99dc-2db68ef49d4f,manilkara huberi (ducke) chevalier - macaranduba-24-viga,"[array([{'end': 48, 'label': 'ESPECIE', 'start': 37},
+        {'end': 56, 'label': 'CORTE', 'start': 52},
+        {'end': 34, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+dcb79a76-db7d-4dfd-b180-a260e3cd2e26,completed,e2ded274-107b-4302-89e3-29b9f1f91cb5,"barrote macarand 5 x 5,5","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'ESPECIE', 'start': 8},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d76f4a14-998a-4497-9fe1-6d7605a1762f,completed,d65cf7ae-fecf-4e82-81ec-7062f87022d9,cx de porta angelim pedra desmontada,"[array([{'end': 25, 'label': 'ESPECIE', 'start': 12},
+        {'end': 11, 'label': 'CORTE', 'start': 6}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2984b272-6aba-4890-b0e6-4864a6ccb3c1,completed,980c8b7d-b1b9-4830-92ac-385f338bf83d,ripa mista anani-da-terra-firme serrado,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'ESPECIE', 'start': 5}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+81769041-46ae-4634-ab02-008c76ce333a,completed,23657b64-5848-4d04-af92-c533d5e62e4b,"linha peroba rosa 5x18 4,5m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 6},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f6572739-d19f-4315-a750-6fa22ac71983,completed,451b49ff-d54a-4ddb-8b6c-c042af38f0c5,uxirana serrada em vigas,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 24, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d456bc19-37de-4406-b35d-37147c523ec5,completed,31a24d23-bab5-4d62-90a7-b01a4a7cbe5d,linha 5x13 angelim 2.0mt,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 18, 'label': 'ESPECIE', 'start': 11},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d779288a-4463-4441-a665-e02ab9523c77,completed,6ce631d6-c658-4894-ae39-23a165204c16,caibro 5x3 guajara 4.50mt,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 18, 'label': 'ESPECIE', 'start': 11},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0076e295-37ee-4b71-827f-9f8508b06530,completed,76adef30-eaa6-4827-bcb7-92453aa7a0d0,linha mista 3 8 - mt,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a69650d5-ea55-4cbb-bca7-d2d3370e8999,completed,8a90f5bd-10c9-40bd-a533-b855e6fb2340,macaranduba madeira em ripa,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 27, 'label': 'CORTE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+581871c1-64b6-4d7f-89fd-058362821997,completed,91c0deee-a238-48ab-8cfa-734f38064e5c,guajara mad.ins. de residuo caibrinho,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 37, 'label': 'CORTE', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d98a3c15-231c-47af-9301-11a4e6c17075,pending,e6835622-eb2d-4cdf-b6fc-ca8a96ab1b81,"janela de vidro 0,80x0,80","[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+c70dbf0a-f300-484c-ace8-1ffb23423972,completed,ad59d086-20c0-4b5e-9c73-3f40b82b9ffe,madeira serrada em tabuas/taipa na especie itauba,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 31, 'label': 'CORTE', 'start': 26},
+        {'end': 49, 'label': 'ESPECIE', 'start': 43}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8552c3de-8ce0-46da-963d-806172b53c45,completed,e4560ea9-675e-404a-842e-5e38427570e2,janela 1 00x1 20cx dupla andiroba,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 33, 'label': 'ESPECIE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f4314c5c-8ce9-4fc3-ae52-cc3738f36418,completed,100c972e-905f-48ae-8fa2-854c65533f16,hymenaea courbaril l. jatoba- 27- tabua (taipa),"[array([{'end': 21, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'ESPECIE', 'start': 22},
+        {'end': 40, 'label': 'CORTE', 'start': 34},
+        {'end': 46, 'label': 'CORTE', 'start': 41}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cd520da5-dd3d-4687-9aff-f9ae56592c08,completed,be94159c-d3eb-4adb-a74b-b03944e5704a,timborana serrada em caibro,"[array([{'end': 27, 'label': 'CORTE', 'start': 21},
+        {'end': 9, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+52826d9f-7f56-45cb-b64a-48ec7bcbf517,completed,d3233ff0-bda0-44b2-a936-66d78a3b3f98,produto acabado - portas de calha - da especie pequirana,"[array([{'end': 24, 'label': 'CORTE', 'start': 18},
+        {'end': 56, 'label': 'ESPECIE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+19d6dd95-0911-4f65-9cba-91ea003518f3,completed,d5d7e7f1-177e-4a84-a9e5-d9f2aa37d17d,madeira serrada em viga da especie - casca seca,"[array([{'end': 23, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+20f6fbf7-7a22-4bd9-be9f-0674a12e251b,completed,2ecac3ab-c99c-4ae0-8b94-2aaa4a2c21ec,ipe serrado em sarrafo,"[array([{'end': 22, 'label': 'CORTE', 'start': 15},
+        {'end': 3, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b8d50b90-b2ae-4b4d-974d-79f3d157d7e2,completed,9b281b7f-4ade-4a47-b35d-d6f102cb3598,caibro serrado mst casca seca,"[array([{'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+14c5816c-e20f-4d49-b9e2-a0a87412c249,completed,2472ffdb-2869-442d-99bd-5dd8b2b16b9e,tabua mix 14cm,"[array([{'end': 14, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'ESPECIE', 'start': 6}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2644cfce-ed57-47c1-9d5d-03876c3ec595,completed,fd63cd60-e3f5-461d-8909-eb970fc0f7ab,madeirito 10,"[array([{'end': 9, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b531edd7-4e5e-48fa-b552-11908a6d22c0,completed,2e1c8ae0-5465-4f0a-a1b0-8f491b54ef0d,"caibro misto 6cm 4,5cm 3m","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9a5827d0-3bb5-49e0-b3f1-483380814b38,completed,0a289948-2596-427c-a890-ce273597c01a,produto acabado de madeira beneficiada da especie popular breu em portais/aduelas,"[array([{'end': 62, 'label': 'ESPECIE', 'start': 58},
+        {'end': 73, 'label': 'CORTE', 'start': 66},
+        {'end': 81, 'label': 'CORTE', 'start': 74}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ed3826b4-6ddf-4536-b9c4-890d0ad26ae9,completed,c0cfe725-7952-43d9-95f5-acc72117d32f,residuo para aproveitamento industrial caibro de macaranduba,"[array([{'end': 45, 'label': 'CORTE', 'start': 39},
+        {'end': 60, 'label': 'ESPECIE', 'start': 49}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1a1c96ee-afbc-49f7-932c-e126e1b09b67,completed,16479b20-d2e4-4504-b01c-0011e41a68e5,"mourao de euc. imunizado 3,0 14-16cm","[array([{'end': 13, 'label': 'ESPECIE', 'start': 10},
+        {'end': 36, 'label': 'DIMENSÃO', 'start': 25},
+        {'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a3128fe9-4d4a-49ad-8cfc-3dc6fca79b1a,completed,4720d31c-5b6c-4ceb-948c-8c225d6dcd58,madeira serrada em viga da especie - macaranduba,"[array([{'end': 48, 'label': 'ESPECIE', 'start': 37},
+        {'end': 23, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+acbc53b0-7d18-4dce-b062-ea4cf32aa163,completed,b7d47d7e-52fb-4cf4-81af-f009829f7984,guajara madeira serrada tabua,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 29, 'label': 'CORTE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a544ad8d-54f0-4e0c-a007-14fc5494d41d,completed,e3bfdd5d-b89c-4e68-88ed-678b03aac56f,mesa de madeira cedro 100 x 80,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 21, 'label': 'ESPECIE', 'start': 16},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bde7709a-1fcd-4519-9a4c-ef8676a56d6a,completed,91f026aa-df93-4896-b21e-a488df655d83,madeira serrada em ripas da essencia - angelim vermelho,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 55, 'label': 'ESPECIE', 'start': 39}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+549edb67-d78c-4a87-ac3a-ddfcbd852e9e,completed,70ef89e9-eece-4aa4-ad89-fbb920d72d2d,madeira serrada tipo ripas da especie angelim,"[array([{'end': 26, 'label': 'CORTE', 'start': 21},
+        {'end': 45, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4f1a986d-187f-4dde-937b-6fd9d603725e,completed,7cdce2ef-f2c6-4133-adfc-0f81e6b3061f,madeira serrada em tabuas da essencia canelao (ocotea puberula (rich.) nees),"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 45, 'label': 'ESPECIE', 'start': 29},
+        {'end': 75, 'label': 'ESPECIE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ea3dafad-8624-49b4-b855-59ec87b5fa15,completed,25ecc9f1-4635-4888-9fcb-eb19c5b02a32,jatoba produto acabado - portal/aduela,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 31, 'label': 'CORTE', 'start': 25},
+        {'end': 38, 'label': 'CORTE', 'start': 32}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+93a38b51-1fd2-4008-b39f-5acc9b646fd1,completed,5a713a22-97e8-4ee0-bd4f-df7ca22e4823,frechal 5.4,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'DIMENSÃO', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d05a62e4-f116-4a69-b02c-b3d5a57236ef,completed,61ff5656-9402-4599-86d8-89f85c032c13,linha angelim ver. 5 x 11 3.5,"[array([{'end': 17, 'label': 'ESPECIE', 'start': 6},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 19},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+30c64580-439e-469c-a956-3b03af52671d,completed,a6509df5-ac5a-4b37-b9f9-8fead177c6fc,madeira serrada em vigota esp angelim vermelho,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 46, 'label': 'ESPECIE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6060e71d-5fd6-40fe-a574-831ae92bc894,completed,8d1fae16-2e63-4111-962b-245fdaf101e1,"linha mass 7,5 x 12 - 2,50","[array([{'end': 10, 'label': 'ESPECIE', 'start': 6},
+        {'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 11},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b0c37c8f-bc17-4d1a-adc2-bd7bcbd8fc08,completed,488c3b9b-0f7d-4074-adc2-a8a8047c5d21,madeira serrada em tabuas na especie andiroba,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 45, 'label': 'ESPECIE', 'start': 37}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+73a6db4d-fe20-4879-bd30-d0fde5aff7c6,completed,8a59c61e-044a-45f9-b9b4-0bb75bce2bdd,porta diagonal 80x210mttimb post almof,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c62eaa9d-ad32-4cf6-86ba-3addd2564ce3,completed,58ea9ea0-5959-4dad-9603-1af0c42248af,mesa de jatoba 6 cadeiras,"[array([{'end': 14, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+86a6f896-4ec9-42d3-b5e2-69c76f75556c,completed,7617d5a3-af3b-4efb-b841-7d60a270f89c,mourao 12x12cm massaranduba,"[array([{'end': 14, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 27, 'label': 'ESPECIE', 'start': 15},
+        {'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8932b6b5-49f5-44dd-9e86-5620b29a2323,completed,be3335d1-4fed-437a-931f-aa415a3d7167,caryocar villosum (aubl.) pers. - pequia- 27- tabua (taipa),"[array([{'end': 40, 'label': 'ESPECIE', 'start': 34},
+        {'end': 52, 'label': 'CORTE', 'start': 46},
+        {'end': 58, 'label': 'CORTE', 'start': 53},
+        {'end': 31, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d7f789ff-7172-4ca4-b520-913295f92969,completed,40def89b-71b1-4a0a-9e01-19a7d5bc1f5b,"caibro massa 3,0mt-madeira","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fce6f12d-0b8e-4161-99bb-5c76acc453a1,completed,aa3ba2a5-854f-4617-8be4-70f17b534c95,mad. serrada viga - jatoba,"[array([{'end': 26, 'label': 'ESPECIE', 'start': 20},
+        {'end': 18, 'label': 'CORTE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4767b48f-be35-46af-9cb2-0f3e9f22b55c,pending,1bb02d2b-bf08-41c1-b4c0-d6b8d22e5569,caixa 448 costura lisa,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+a6df5c79-f720-4c74-af8a-98132786bcce,pending,55f1ddf3-6299-4ce1-9fc0-69b40cef752f,bandeja migalheiro nfe: 48 dt: 26/03/2019,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+19ac7bc7-b4c4-4822-a961-7ce8960eb02f,completed,14e7f412-6959-4eb2-8054-97e8495d8551,louro serrado em pranchas,"[array([{'end': 5, 'label': 'ESPECIE', 'start': 0},
+        {'end': 25, 'label': 'CORTE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+801f21d5-18c3-4ba1-92eb-353152e6acbb,pending,dd3f12f9-7ce5-46fb-a112-d011772923a8,madeira beneficiada em (pisos e assoalhos) da essencia - fava,"[array([{'end': 61, 'label': 'ESPECIE', 'start': 57}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+2ffb2e4d-75d2-421d-bb91-e49c12d0893b,completed,6bc98808-700c-43a9-8c3b-14e7c8cadb30,"madeirite plastificado 1,10 x 2,20 11mm ( atencao avariados)","[array([{'end': 9, 'label': 'CORTE', 'start': 0},
+        {'end': 39, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a2f28308-2947-4695-ace8-e10a9cf6ec10,completed,e790d2a4-3ae0-4d26-a2d7-2172938d3f39,"serrado tipo viga 13cm x 5cm x 2,5m","[array([{'end': 17, 'label': 'CORTE', 'start': 13},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b158d739-76b6-4ea4-b6c7-bfa7deac1d6d,completed,24a6d244-2f96-4b98-937f-f6eeadcd7a11,ang vermelho serrado ripas,"[array([{'end': 26, 'label': 'CORTE', 'start': 21},
+        {'end': 12, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+eaec7105-a313-43bf-bd86-06e7f6ab58db,completed,91d4b146-9dd6-4518-a921-3d3091260ef6,madeira serrada viga de bajao,"[array([{'end': 20, 'label': 'CORTE', 'start': 16},
+        {'end': 29, 'label': 'ESPECIE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+522db38a-a4e4-41d7-882a-a1c10f4c8439,completed,cf57115f-69f7-4d63-9e6d-deeca1b0b1bf,linha de madeira 3 x 5,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ce0c41e1-4e7d-44fc-9f09-32a79894066d,pending,62d996af-1cf5-4f85-89ad-fe2682fdc719,deckin comercial,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+a226bacf-1f49-4079-904d-0f37fa319a3e,completed,d1de8146-a2de-4d75-bd6d-f1825e4aed0f,"mourao de euc. imunizado 9,0m 20cm","[array([{'end': 14, 'label': 'ESPECIE', 'start': 10},
+        {'end': 34, 'label': 'DIMENSÃO', 'start': 25},
+        {'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+afe956d3-749f-4632-a7c7-dfc36e8ce435,completed,48cdf79e-e01f-47c1-9f31-c59302299467,angelim vermelho serrado ripas,"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 30, 'label': 'CORTE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ec1ccbe4-b195-40fa-8d0b-3d1687dc2050,completed,706590a7-3484-4d1b-ad7a-95754b2d9430,"frechal mass 4,5 x 5cm - 5,50","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 8},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 13},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 25},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+060f2809-61d6-4359-a5fa-e7b07c60016c,pending,ae0a3f0c-d260-4b5e-ab67-7baf57bd78cd,lajota,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+9a623577-fa02-412f-b23e-a04eee0953b7,completed,66fd4d1b-16cb-4001-8432-30c610399a23,madeira serrada em ripas da essencia angelim (hymenolobium petraeum ducke ),"[array([{'end': 45, 'label': 'ESPECIE', 'start': 37},
+        {'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 73, 'label': 'ESPECIE', 'start': 46}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+093894ac-9ed1-484c-b7b5-19ce4c66afbe,completed,b9c279e9-52d9-450a-ba09-a1810c086b55,cx porta desmontada jatoba,"[array([{'end': 8, 'label': 'CORTE', 'start': 3},
+        {'end': 26, 'label': 'ESPECIE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+17bbadee-e950-42dc-80bb-e1df87d6d2bc,completed,d5ad5f05-b578-48eb-9101-0c859a988df4,madeira da especie angelim-pedra (hynemolobium heterocarpum ducke),"[array([{'end': 32, 'label': 'ESPECIE', 'start': 19},
+        {'end': 65, 'label': 'ESPECIE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+331af556-4a6a-4257-a5c2-23eb54f7d541,completed,57a80df7-31e3-4b9b-8a47-4dba5404e880,jarai madeira serrada viga,"[array([{'end': 26, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6d685312-caf1-41f9-b7d6-75260db12309,completed,9f10dfc1-e22c-48e0-9d99-2e2af51a3f33,quarubarana serr.prancha(ruizterania albiflora marcano-berti),"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 24, 'label': 'CORTE', 'start': 17},
+        {'end': 60, 'label': 'ESPECIE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+53c2992c-ac42-41f8-a348-3d9a044d2be2,completed,f9271fa4-9e5d-4379-8023-d340c8bb4e3a,hymenaea courbaril l.- jatoba- 27- tabua,"[array([{'end': 21, 'label': 'ESPECIE', 'start': 0},
+        {'end': 29, 'label': 'ESPECIE', 'start': 23},
+        {'end': 40, 'label': 'CORTE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cc68f0a0-cabb-4920-adb8-bcf45775caf1,completed,8d8a79e5-2587-4f82-a3c4-d510ba28e957,"caibro mixto 1,5mt","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+02236536-732d-43de-8e16-5fcd75d5059a,completed,53e4fad6-3663-4497-b6f4-df8dcca0ac9c,angelim-vermelho serrado - vigas,"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 32, 'label': 'CORTE', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+469271fb-f08c-42f0-a474-e97906197f39,completed,d17c5f8c-8cc8-48d6-b4df-1f91c3857785,angelim vermelho serrado tipo sarrafo,"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 37, 'label': 'CORTE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bb81360f-9bdd-4507-8972-479cc6767243,completed,0704c552-af70-4d16-b938-6861aad7dde3,quarubarana serrada caibro -caibrinho,"[array([{'end': 37, 'label': 'CORTE', 'start': 28},
+        {'end': 27, 'label': 'CORTE', 'start': 20},
+        {'end': 11, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7dcb54a7-0324-469e-9056-d4ef392808a4,completed,9978c86c-f3b0-4be3-b3bc-86534cdbb971,"linha madeira 5x10cm x2,50m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fb9d5d2a-94b8-42ad-8425-4e7370f193d9,completed,3eba28f2-e915-48fa-82f2-e13295d6e3f6,linha 6x15 macaranduba,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 22, 'label': 'ESPECIE', 'start': 11}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+27b06d46-582b-4825-92b0-84787f1fe4ee,completed,c4377ea8-6866-4790-81cf-a56716a6734a,angelim - madeira serrada em sarrafos,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 37, 'label': 'CORTE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d3a44eb0-14f0-42f2-bc61-ef460eaf838a,completed,e722acd1-dd2c-4594-ac51-71b014161b6c,"garapeira 10,00 x 10,00 quadrado 1,50 mt","[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 32, 'label': 'CORTE', 'start': 24},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 40, 'label': 'DIMENSÃO', 'start': 33}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+60deaeb4-cc35-4052-bf58-4df370c3eadb,completed,17f1eab6-c903-410b-afa3-93b6caf548a5,madeira serrada em viga da essencia sapucarana ( tapirira guianensis aubl.),"[array([{'end': 23, 'label': 'CORTE', 'start': 19},
+        {'end': 46, 'label': 'ESPECIE', 'start': 36},
+        {'end': 74, 'label': 'ESPECIE', 'start': 49}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4fac03b1-24a3-4735-9c2b-65b3488b702e,completed,50ed2f0a-e195-4bc4-b642-58b6258ed605,produto acabado em portais da especie ( hymenaea courbaril l.) jatoba,"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 61, 'label': 'ESPECIE', 'start': 40},
+        {'end': 69, 'label': 'ESPECIE', 'start': 63}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4bf5f2e8-f1bb-49d0-8b3e-8e664cfd5781,completed,1ec935a0-12cf-4704-b587-59b72e21840d,linha angelim 3/8 22 metros,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 17, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4784fc03-d9d2-415a-b705-3a1539ba172a,completed,0b433397-b474-4f36-948e-c67aa4b491fa,ripa mista maparajuba serrada,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 21, 'label': 'ESPECIE', 'start': 11},
+        {'end': 10, 'label': 'ESPECIE', 'start': 5}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f93f51b7-c97a-4820-9504-d758e9db4e56,completed,f8bbd968-8915-47fe-acc6-0ee9fe6fefaa,taxi serrado tabuas,"[array([{'end': 4, 'label': 'ESPECIE', 'start': 0},
+        {'end': 19, 'label': 'CORTE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3a701324-f311-4c55-bb30-47b77b28850b,completed,3a4d7626-edd1-473c-872d-78c1b5fde123,"tabua tachi 3,5x13cm","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+12ef997d-55bf-47c6-a543-797c4d8fb872,completed,b676bdc0-790e-4d97-a185-0887b8f6f849,linha 5x12cm massar,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 19, 'label': 'ESPECIE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2e86e321-f4f0-4b11-ab92-940f88bf13a2,completed,c342b124-941f-44bd-ba9a-4af2fc1e2968,madeira ser. vigota jatoba ( hymenaea courbaril. ),"[array([{'end': 19, 'label': 'CORTE', 'start': 13},
+        {'end': 48, 'label': 'ESPECIE', 'start': 29},
+        {'end': 26, 'label': 'ESPECIE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f92349c1-498b-4a2e-9a61-e2160cea05ca,completed,9d7c3d2a-b1ad-405a-9767-50099be8c7e9,timborana serrada em tabuas,"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 27, 'label': 'CORTE', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+895c4546-0b54-4736-bb67-46eaa46640bf,completed,7fad8e56-9919-4b55-9dd4-4435c2352908,madeira serrada em viga da especie quaruba-rosa - vochysia surinamensis stafleu,"[array([{'end': 23, 'label': 'CORTE', 'start': 19},
+        {'end': 47, 'label': 'ESPECIE', 'start': 35},
+        {'end': 79, 'label': 'ESPECIE', 'start': 50}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+796db047-f2ce-490c-bf3c-210ade1aec54,completed,a0947330-bf59-4dc0-8724-7a3c325a3b6e,"pequi (esp. 6,5cm) larg.  0,70cm - tabuado","[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 17, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 32, 'label': 'DIMENSÃO', 'start': 26},
+        {'end': 42, 'label': 'CORTE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+839c98ec-ce91-4235-b306-9108b0702f66,completed,74a034f9-6fbb-412c-a25f-5b9434767e35,madeira serrada em tabua da essencia jat,"[array([{'end': 40, 'label': 'ESPECIE', 'start': 37},
+        {'end': 24, 'label': 'CORTE', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0cb00dbd-626f-4043-ae15-74e07cdfb6ef,completed,2d46d364-d564-42ab-9a29-a4e3aa83fb71,madeira serrada louro (tabua),"[array([{'end': 22, 'label': 'ESPECIE', 'start': 16},
+        {'end': 29, 'label': 'CORTE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d6775af9-e3b7-407a-bead-c1f28fefc9c3,completed,44a18a7a-2380-423b-a7f7-49a4849b904c,madeira serrada  (tabua)- da especie - andiroba,"[array([{'end': 47, 'label': 'ESPECIE', 'start': 39},
+        {'end': 23, 'label': 'CORTE', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f0646b66-8cc5-4544-9086-77b4b03db83f,completed,344f9a46-efa9-4183-be61-f41b12d52bca,roxinho serrado em 3.5cm,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c61e7bfa-5c4d-44d4-b1d5-4ed3775df12f,completed,ec15e406-b32b-475b-9def-469f70b4bae2,quarubatinga madeira serrada ripa,"[array([{'end': 33, 'label': 'CORTE', 'start': 29},
+        {'end': 12, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+bef2b1e6-46cc-4a5d-a0d4-60731e19baff,completed,d3a76506-25af-4f03-b5fc-ba2c17c2b2e9,madeiras serrada angelim vermelho viga,"[array([{'end': 33, 'label': 'ESPECIE', 'start': 17},
+        {'end': 38, 'label': 'CORTE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a1546268-6782-41b0-86f8-e923d297c405,completed,5c6614be-09d1-4d2e-95be-43fe867287ed,"cx de porta 0,80x0,13cm montada #","[array([{'end': 11, 'label': 'CORTE', 'start': 6},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d101b185-6dbf-43d6-8865-7345242c953f,completed,9c2886f0-d6d5-43b6-9f57-365c3c8d9868,linha jarana 5 x 11 de 6.50m,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 6},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 13},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8f69242e-0c99-46b5-963b-fd8b7283c3c6,completed,31f8a19f-e1ab-4b58-8010-67f564e4b98d,ripa madeira,"[array([{'end': 4, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f775f44d-5c87-4ee1-9b63-c03c6f758c3f,completed,520caca4-e4c7-48c0-a84c-39f14833916d,angelim-pedra serrado em ripas,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 0},
+        {'end': 30, 'label': 'CORTE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3180e55b-0155-4c8b-879f-be6990eef2ce,completed,05af6ca2-8246-459c-b4d8-6e583bbfd908,madeira serrada tipo ripas da especie macaranduba,"[array([{'end': 26, 'label': 'CORTE', 'start': 21},
+        {'end': 49, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e2e3115f-6d9e-4dfb-8ea2-4081c1f89686,completed,4d510625-ef4d-4eb1-bf60-e975f78138f1,madeira serrada (viga) / manilkara huberi - maa ar,"[array([{'end': 21, 'label': 'CORTE', 'start': 17},
+        {'end': 41, 'label': 'ESPECIE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+91135230-4ce6-411a-bbc4-2079ec13ffa0,completed,60449570-2026-4611-8507-88707bab7591,lamina de porta 2.10x0.60 un 1,"[array([{'end': 15, 'label': 'ESPECIE', 'start': 10},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e02bfae6-5d08-4e1f-9be9-fc216ae1aa84,completed,4626e865-9c3e-4227-a096-7112e30657a1,prancha angelim amargoso,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2b7fd2da-06f6-42ef-ad38-ff337b569dea,completed,036a67c1-0c35-4286-ada8-1d60436b0a97,mandioqueira preta serr. viga,"[array([{'end': 18, 'label': 'ESPECIE', 'start': 0},
+        {'end': 29, 'label': 'CORTE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e87ff320-4f72-43e5-bca3-7a9fd5e47a58,completed,c0c65f1c-8e10-4343-ac29-f0773e6501b1,madeira serrada caibro de sucupira preta,"[array([{'end': 40, 'label': 'ESPECIE', 'start': 26},
+        {'end': 22, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+46a1ab5a-7205-4cf8-a246-851f2a2b35e9,completed,37edcadb-ea02-447f-b9ea-c9b7060341eb,tanibuca serrada em sarrafo(class.64) 508,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 27, 'label': 'CORTE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9ab6d1c9-5ad6-44db-b243-8cf14d15d0a7,completed,252c4de8-0e5f-4551-aefb-fa414882a332,angelim amargoso - pisos e assoalhos,"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ebee9809-f7aa-42aa-bd6d-0390b79f9369,completed,c4ecb30b-039e-4749-b234-b423ebd5958b,"linha (5x9) 4,50mt angelim","[array([{'end': 10, 'label': 'DIMENSÃO', 'start': 7},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 26, 'label': 'ESPECIE', 'start': 19},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a8cbe394-490c-42bd-a879-74fb8762d993,completed,60730a94-9a18-4993-9994-134135c91e9f,travessa da cama 70x1390x20,"[array([{'end': 8, 'label': 'CORTE', 'start': 0},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+feb70b00-8bf6-45c8-993f-5e93e73c1c04,completed,0877b1e8-03f4-48c3-9fad-4b7ce3ac2856,angelim vermelho sarrafo,"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 24, 'label': 'CORTE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3567be95-3c73-486c-bd1e-1a32bb91d58d,completed,cd0e2d98-a3ad-4539-b1b4-c626780690d7,madeira ind. de residuos (caibrinhos),"[array([{'end': 36, 'label': 'CORTE', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2680a903-3c87-46ad-b55f-7d8231b7fe52,completed,520a8c37-9bd3-4647-9560-25b4ad1a8f12,"linha cupiuba - 5 x 12 x 4,00 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 6},
+        {'end': 32, 'label': 'DIMENSÃO', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+de2a7e59-6b1a-4e28-9ab7-14b0d87d8f6d,completed,07f504df-0583-4515-8572-c784f1c5b2b3,produto acabado em portais sem alisares da essencia macaranduba (manilkara huberi (ducke) chevallier),"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 64, 'label': 'ESPECIE', 'start': 52},
+        {'end': 100, 'label': 'ESPECIE', 'start': 65}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+39f1d7ac-4f30-4f4b-b0fa-a4f00ffe5bca,completed,c5c08eac-80bf-473d-8ccb-cad8609cc43d,madeira serrada em caibro curto na especie macaranduba,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 54, 'label': 'ESPECIE', 'start': 43}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d8302234-2997-4953-a22a-292c1d1c439d,completed,f8b1689b-6183-4bd0-9d68-9b7bd3892a1c,angelim pedra serrado em pranchao desdobrado,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 0},
+        {'end': 33, 'label': 'CORTE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8d8f980a-f118-4a44-abd0-597d229154ca,completed,3ec0ec25-50e5-48de-a57f-a647d8fd0c92,madeira serrada em sarrafo de ucuubarana,"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 40, 'label': 'ESPECIE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+87854b1b-3bb6-4f92-8d62-bc27c896a273,completed,46003422-79f2-4eb8-955c-39429d8534ac,"linha angelim 5x29 6,0 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+37964133-7080-4e21-b069-93a89b3abe33,completed,288ea914-9eee-46c8-814c-6d2fb3c82ea5,"tabua pequia 2,2 x 39cm 6,5m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 6},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 13},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+eced8458-48e6-4b8f-92be-da05190126da,completed,3f07cecc-f90d-463e-a150-62ce65a6efde,louro serrada em tabua,"[array([{'end': 5, 'label': 'ESPECIE', 'start': 0},
+        {'end': 22, 'label': 'CORTE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2ddc3c09-8e1a-41e4-b1ad-8b86c164bffe,completed,bf436072-8bc1-449f-9466-05fb88753abb,louro vermelho serrado em vigota,"[array([{'end': 14, 'label': 'ESPECIE', 'start': 0},
+        {'end': 32, 'label': 'CORTE', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c92fe869-e57a-49d3-b237-daf655e11112,pending,49963df0-7502-4a8a-aa2e-063bc21bca32,erva e cond.louro 10g,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+e1724061-12ff-468e-a4b3-9f1ad493db80,completed,cb393a25-b23d-4d36-a9f4-71d74d114f96,manilkara excelsa (ducke) standl- macaranduba- 24- prancha,"[array([{'end': 45, 'label': 'ESPECIE', 'start': 34},
+        {'end': 58, 'label': 'CORTE', 'start': 51},
+        {'end': 32, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+17446f9c-da2b-45b7-8228-2024fa61d0e2,completed,20a2bc13-ec75-493f-a3d1-214dff2cab93,louro-faia serrada em sarrafo,"[array([{'end': 29, 'label': 'CORTE', 'start': 22},
+        {'end': 10, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+162a421a-e127-42ac-9061-03d9f2771929,completed,1426d0a8-c30b-4315-b46c-2aab51d69a64,quaruba-cedro serrada em caibro,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 0},
+        {'end': 31, 'label': 'CORTE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e9ea7e8b-4db1-4035-a615-b1a6313ac63b,completed,9877b76e-f0ba-4e15-882e-49a3ef389de7,guaruba-cedro madeira serr em tabua,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 0},
+        {'end': 35, 'label': 'CORTE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+34daa698-03a7-4b7e-8ce5-d2dabbc1cf49,completed,dc69560d-7e2e-429c-b6d6-684237851b57,madeira serrada em tabua da essencia muiracatiara ( astronium ulei mattick),"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 50, 'label': 'ESPECIE', 'start': 37},
+        {'end': 74, 'label': 'ESPECIE', 'start': 52}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7dcb6d9c-8e59-4b46-874f-61215939f508,completed,f252d5f8-f721-46be-865e-797ff439d47a,placa madeira 25cm larg(seta e nome desvio),"[array([{'end': 18, 'label': 'DIMENSÃO', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+68cc161e-3cde-44cd-9ed4-7dc8e2f376d2,completed,2c98ca6e-29bb-4540-828f-bee303ae46f4,madeira serrada de jatoba -tipo: viga,"[array([{'end': 26, 'label': 'ESPECIE', 'start': 19},
+        {'end': 37, 'label': 'CORTE', 'start': 33}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+25317f3d-7b5f-4aae-af58-a00e30798415,completed,5c341dd0-f10f-4260-b35f-00ee82eaf5e7,madeira beneficiada tatajuba,"[array([{'end': 28, 'label': 'ESPECIE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1d9f0af1-b2e6-4399-ab09-03ebf46372b3,completed,5a10b3e3-ee6d-4e45-9c9f-7181e9d8014e,pequiarana madeira serrada tabua,"[array([{'end': 32, 'label': 'CORTE', 'start': 27},
+        {'end': 10, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1762c8b6-2773-454e-be70-4c0b8e1322d7,completed,58e579ec-4b32-4af6-881e-69f3e2152b7d,maparajuba - sarrafo,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 20, 'label': 'CORTE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+83104726-2ca7-4e40-a4d7-5c12939b831a,completed,47c8bcb2-ff63-4507-b0d7-4566f03a090e,porta de ficha rolada ou inteira,"[array([{'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+aefdb862-18bb-4c0b-8750-f66929fb00f4,completed,04df6c64-6d9e-4fd2-9231-d1f508efa8fb,madeira serrada em caibro da essencia - angelim-vermelho,"[array([{'end': 25, 'label': 'CORTE', 'start': 19},
+        {'end': 56, 'label': 'ESPECIE', 'start': 40}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b880ae4a-6d6b-4866-b246-bd151e92ccf0,pending,3e5bcd6f-8381-47da-bc50-04e8f855f650,"visor tabicao 0,40x0,60cm","[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+e56828a5-cb12-43cd-be0c-91ba9e699335,completed,05b2579f-d5ca-43f6-b69b-8d1527fe1648,matamata-ci serrado em vigas,"[array([{'end': 28, 'label': 'CORTE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a28820db-9a06-41b3-8fab-3f32775e75e6,completed,48496a7e-b8a4-468e-b6b9-20a64c419909,linhas 3.5,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fa30b3a2-5b12-4314-8786-715c63712300,completed,c96da104-76ad-42cc-aa13-9f6dbfb63bcd,sarrafo 10x3cm pinus,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'DIMENSÃO', 'start': 8},
+        {'end': 20, 'label': 'ESPECIE', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0d2a1aad-484f-45fb-8bc5-9560b1ed8093,completed,bf8f2fcc-f9c0-44f9-a46b-757c1ed49b13,"caibro de 2,5 metros","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 10}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e0e6d70b-225e-41ec-8f37-2c3b28eeffb1,completed,13f75251-bde2-4897-8564-9aa80c023071,tanibuca serr. ripas,"[array([{'end': 8, 'label': 'ESPECIE', 'start': 0},
+        {'end': 20, 'label': 'CORTE', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+04d857ef-75e8-4fb8-9af0-584dbf2ebae6,completed,15ec271a-0014-46fd-a4da-0ea05b6c0277,jatoba 24 - madeira serrada apl. 2 faces (s2s),"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7f4dd3c1-064c-4678-9755-1e53abc7690a,completed,c4a4624a-d239-43b4-a681-638005d4ca41,"prancha - angelim-pedra (hymenolobium petraeum) bruto, normal, fas, ad, .","[array([{'end': 23, 'label': 'ESPECIE', 'start': 10},
+        {'end': 46, 'label': 'ESPECIE', 'start': 25},
+        {'end': 7, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+634d99b5-d2d6-4189-80a4-cf829fc710bc,completed,f1ff03e5-412e-4182-9200-04ed0586cbf1,caibro angelim vermelho 7 0m,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 23, 'label': 'ESPECIE', 'start': 7},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4c4d8d94-2625-479d-9cf0-3a9c3232901a,pending,da73e5e3-908f-4443-b776-202bb6ab61e5,trio forro pe de serra,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+736350db-e243-4f99-82b1-10ce661f24d3,completed,1fc93b07-e18f-4942-83cb-64224038a718,roxinho serrado tabua,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 21, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+113f7216-2431-4e51-9b21-aa4cd100da43,pending,eb808990-884a-4457-8687-689a4649e96b,"sanduiche mass 11 - 2,50","[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+d00b0470-49c8-4f74-97e2-ae0b397ffdc5,completed,6c51ee46-be7c-4bcb-bd02-357529fb75d2,angelim verm.mad.indust.de resduo ripa,"[array([{'end': 12, 'label': 'ESPECIE', 'start': 0},
+        {'end': 38, 'label': 'CORTE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+14070489-a75b-441c-aea3-2e77eb823553,completed,5a1c173b-3105-4b80-bd30-4d1b9af2c4ce,linha angelim vermelho 5x11 4 5m,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'ESPECIE', 'start': 6},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 32, 'label': 'DIMENSÃO', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+31ae51b5-fdd2-4e6b-b053-feb4e4bf3162,completed,15a4988e-3e9c-401b-9a7b-45e76f4c8e62,madeira da especie breu serrada em viga,"[array([{'end': 23, 'label': 'ESPECIE', 'start': 19},
+        {'end': 39, 'label': 'CORTE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+76228ee5-afe1-475c-9d01-d85a786bf7a3,completed,2beb0fec-91ea-4665-9d97-df0418213e80,linha cupiuba 5 x 14 de 6.00,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5d1f44a1-05a4-488a-a6a2-8fe85122ccc1,completed,5059af4c-567b-4b74-9750-4ab8f464877a,porta laminada 2.10 x 70 pinus cxd,"[array([{'end': 24, 'label': 'DIMENSÃO', 'start': 15},
+        {'end': 30, 'label': 'ESPECIE', 'start': 25},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+71931ea8-b57f-4d8e-b3e9-32a70ce04f92,completed,c45dfa8a-1a37-48f7-bbf1-05a6f7270f47,orelha de negro serrada em vigota,"[array([{'end': 15, 'label': 'ESPECIE', 'start': 0},
+        {'end': 33, 'label': 'CORTE', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7d5f9f66-42c5-4048-a22c-9ab3bda18f6e,completed,587d0ff7-458a-492a-8b1a-1c0068c80d2f,- madeira serrada (prancha) - da espcie - macara,"[array([{'end': 26, 'label': 'CORTE', 'start': 19},
+        {'end': 48, 'label': 'ESPECIE', 'start': 42}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4d9ef3fb-069b-4efb-951c-585104227a5e,pending,de2ec503-d490-49a0-a3a8-0b6929a44121,palito churrasco 50und bambu billa,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+e15ab83a-4be8-4dbb-9d68-2feeafba0767,completed,d6963ed4-8080-4968-a114-aaa711be86bb,uxi madeira serrada em ripas,"[array([{'end': 3, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'CORTE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b3934a5d-17bd-41b0-aced-81992e27cfdc,completed,e20d0f3c-cb42-4435-8a64-c87cfa38f4f3,porta londres + exuberance 2.10 1.10 pinus,"[array([{'end': 42, 'label': 'ESPECIE', 'start': 37},
+        {'end': 36, 'label': 'DIMENSÃO', 'start': 27},
+        {'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2a9d7e2c-085d-43ec-9602-59c264cae4ad,completed,f05f6692-dd7f-49c1-87e3-65ea4315fd22,"linha angelim vermelho 5x9 3,5m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'ESPECIE', 'start': 6},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 31, 'label': 'DIMENSÃO', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+aaf939ba-d450-4183-a1c8-24351a95019c,completed,57dcb862-23c2-4d5d-b822-3690a0c90998,maparajuba serrada em ripa,"[array([{'end': 10, 'label': 'ESPECIE', 'start': 0},
+        {'end': 26, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0a5f14b4-f37d-44a1-8ec4-1ad059b9c75d,completed,21eee6ae-ca2f-4d21-9e1c-e9d4e04ebfbf,madeira serrada na especie guajara - ripas,"[array([{'end': 35, 'label': 'ESPECIE', 'start': 27},
+        {'end': 42, 'label': 'CORTE', 'start': 37}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+035b9ae2-6d96-493b-a879-16551958a060,completed,7bccf3b0-4aa0-4bc4-b9c6-5bbd8761a846,linha 5x11 angelin,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 18, 'label': 'ESPECIE', 'start': 11}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5af98fcc-1cec-4b98-a214-da92d6f95b09,completed,5928cd87-5f3b-4db6-a978-7dababaade1d,madeira serrada em sarrafos da essencia - timborana,"[array([{'end': 27, 'label': 'CORTE', 'start': 19},
+        {'end': 51, 'label': 'ESPECIE', 'start': 42}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f8d53dcc-0f45-41fd-894d-a085a1260b6a,completed,d73f0a0a-917d-4a58-9c1f-abfb56d744dd,dinizia excelsa - faveira-ferro - vigota,"[array([{'end': 15, 'label': 'ESPECIE', 'start': 0},
+        {'end': 31, 'label': 'ESPECIE', 'start': 18},
+        {'end': 40, 'label': 'CORTE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+56fd4533-31cd-40c0-9b3b-ecf5fe6e8411,completed,0278fc1f-2ed0-4c58-9be2-9caa45c222cd,"ripa massaranduba 5,0mt madeira","[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'ESPECIE', 'start': 5},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+afd7ac7a-401d-4d17-9880-69d709420986,completed,0d776099-a185-43d0-9142-74f59e33835d,"mourao de euc. imunizado 6x8 3,0","[array([{'end': 14, 'label': 'ESPECIE', 'start': 10},
+        {'end': 32, 'label': 'DIMENSÃO', 'start': 25},
+        {'end': 6, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4a885e5d-7c74-4708-b52a-2a39df4064ff,completed,0d80cd98-1bd9-4ddf-9468-9121148c6e97,"tabuas esp bajao parkia paraensis ducke 2,5x10/12/20/25/30","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'ESPECIE', 'start': 11},
+        {'end': 58, 'label': 'DIMENSÃO', 'start': 40},
+        {'end': 39, 'label': 'ESPECIE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b00efe5d-5092-457f-8adb-7b9494971ae0,completed,5b10c668-cfdc-4a92-aaec-9cb74e2f44ef,"caibro mixto 2,0mt","[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 13},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4293cf23-7609-4e18-8da0-a4bc87233f6a,completed,a4334041-c88f-4936-b9ee-953f2f4f6119,jatoba madeira serrada em ripas,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 31, 'label': 'CORTE', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c347952a-6b3b-4c99-b947-303b5d3ed88d,completed,2dfa8ce7-e984-49e3-95c5-7c5abed47759,"caixa de porta mista 0,70x2,10","[array([{'end': 14, 'label': 'CORTE', 'start': 9},
+        {'end': 20, 'label': 'ESPECIE', 'start': 15},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ce3e6ead-76dc-4adb-b351-6e8f5c9e820a,pending,394d96e6-309e-49fb-b75e-05729fb68f49,pecas de alisar de madeira jatoba,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+75c43688-69f9-48e1-9215-f2ca7a87124f,completed,8595d87b-6ae2-48e8-a3a1-d7cbd87ac003,madeira serrada na especie sumauma- tabua,"[array([{'end': 34, 'label': 'ESPECIE', 'start': 27},
+        {'end': 41, 'label': 'CORTE', 'start': 36}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c6fe027d-3c65-42b6-b935-8ac3866f75d1,completed,b50b720f-aea2-49f0-8975-a74111d95059,porta 2.10x0.80 cx dupla andiroba un 1,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 33, 'label': 'ESPECIE', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f6bee632-32a9-4591-b799-df4a6df0c14a,completed,c940eabc-7881-422e-9f63-1ac7e459e997,"frechal angelim 5x5 5,0mt","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'ESPECIE', 'start': 8},
+        {'end': 19, 'label': 'DIMENSÃO', 'start': 16},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cfd49a1f-09a2-4ac9-96e2-084e78b45397,completed,75357a5d-1687-458b-9531-c262efde7dbb,madeira serrada viga da especie de mirindiba - buchenavia capitata (vahl) eichle,"[array([{'end': 20, 'label': 'CORTE', 'start': 16},
+        {'end': 45, 'label': 'ESPECIE', 'start': 35},
+        {'end': 80, 'label': 'ESPECIE', 'start': 47}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e7c3bcce-d45a-4fb8-aa78-57915a16691f,pending,21132c08-9fea-4ca4-aea9-5edad17e0519,"caixa cx01186 24,5x15x7,5 c/ 9-d. dobr.","[array([{'end': 25, 'label': 'DIMENSÃO', 'start': 14}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+15680f41-9ee5-44d3-87b7-27d230e45f75,completed,1fb920cc-f59c-4e28-8ddb-10b685e4e33f,angelin pedra serrado pranchao,"[array([{'end': 13, 'label': 'ESPECIE', 'start': 0},
+        {'end': 30, 'label': 'CORTE', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+58407c23-f5b8-4d27-b306-5436b994600d,pending,438305c2-d557-49da-80d2-dacd0b486e42,tubo 40cm,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+128a8500-48c8-4fe6-90f9-f5d7c6f33795,completed,035a17df-4162-4433-9456-3d0dada45ad5,madeira serrada em vigas na especie jarana,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 42, 'label': 'ESPECIE', 'start': 36}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b57404aa-20d4-4bab-bfea-e4938bfd82eb,completed,6fd6fd4a-aa95-4789-95b1-525f7de6fd23,barrote madeira serrado caibrinho 3x5,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 33, 'label': 'ESPECIE', 'start': 24},
+        {'end': 37, 'label': 'DIMENSÃO', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b5086085-fcc2-4eb6-bcd5-8d2070cbbb4c,completed,0d622723-a4f8-46ce-a079-22a96ada9ff9,"esteio angelim 15 x 15 - 1,00 metro","[array([{'end': 14, 'label': 'ESPECIE', 'start': 7},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 15},
+        {'end': 35, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+972fde8e-e76e-45e7-84f5-ed6eab56eeac,completed,8620346f-3cc9-433e-8f33-cd31c71ae31c,madeira macaranduba serrada em viga,"[array([{'end': 19, 'label': 'ESPECIE', 'start': 8},
+        {'end': 35, 'label': 'CORTE', 'start': 31}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+09f4bf7e-159b-443f-9822-6b5d6f7af5a8,completed,9eb9358c-620c-4f07-962e-118cacd14e42,manilkara huberi (ducke) chevalier- macaranduba - 29 - vigota,"[array([{'end': 48, 'label': 'ESPECIE', 'start': 36},
+        {'end': 61, 'label': 'CORTE', 'start': 55},
+        {'end': 34, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6c2ab189-84d1-46ad-bf75-a47269bea939,completed,fb938328-0f0e-40d5-bd18-93f56decb608,"barrote 5x6 5,00mt","[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'DIMENSÃO', 'start': 8},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f67a9174-fe5f-4a03-8825-29d2dd5850a8,completed,fadfd42d-ae61-4a7d-8a15-816d8f7186b1,orelha de macaco serrado em caibro(caibrinho),"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 34, 'label': 'CORTE', 'start': 28},
+        {'end': 44, 'label': 'CORTE', 'start': 35}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a51591c0-46a2-49db-abdd-36bf64b83c70,completed,85c3098d-d1c2-4c5f-b8cc-70f1825f231e,s2s (vigas) barrote,"[array([{'end': 10, 'label': 'CORTE', 'start': 5},
+        {'end': 19, 'label': 'CORTE', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+e47ae381-6865-4a72-b2ba-fb008d7963d3,completed,335ffc4d-1acc-4c26-ae04-b0b3944af4c1,madeira serrada tabua - oiticica,"[array([{'end': 32, 'label': 'ESPECIE', 'start': 24},
+        {'end': 21, 'label': 'CORTE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4653a2f1-2880-42e9-b501-3718e4d775ff,completed,f8a48761-05f7-4510-8067-c8f0ce4bb1cb,madeira serrada morcegueira (ripas),"[array([{'end': 27, 'label': 'ESPECIE', 'start': 16},
+        {'end': 34, 'label': 'CORTE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+08eb67f6-05ce-4786-b9b3-b6f837ac0f6d,completed,f190b44d-6b33-4c39-b53b-e1852011936d,madeira serrada uxi (caibrinho),"[array([{'end': 20, 'label': 'ESPECIE', 'start': 16},
+        {'end': 30, 'label': 'CORTE', 'start': 21}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+9aac0ce1-dba5-4897-8fc5-518f8edc799f,completed,d0c0881d-0ca1-494b-8116-1b968282fb09,linha massaranduba 5x10cm,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 18, 'label': 'ESPECIE', 'start': 6},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+5971cd65-0a99-4412-8d9a-23208e0a700b,completed,c9e1ebeb-019b-40df-b8e8-d47d690eb7fe,"ripa mixta 2,0mt x1,2cm -madeira","[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'ESPECIE', 'start': 5},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 11}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0be60e43-7124-415f-821c-ba7601cc6958,completed,07619f71-1972-4b4e-9a0c-0765a26941ab,"linha 3x4 5,5mt angelim","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 15, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 23, 'label': 'ESPECIE', 'start': 16}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+84f00e00-5256-4d0e-b19c-d78cfb403532,completed,3ff47e9b-0505-4c74-b94e-060595b17e53,madeira beneficiada (decking) comercial da especie quaruba,"[array([{'end': 58, 'label': 'ESPECIE', 'start': 51}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+09c236a7-3759-4d73-ad00-f5861e5efcd8,completed,3af17fc0-3c10-4821-b57e-e420052814b1,"linha mista 5x11 2,0 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6},
+        {'end': 16, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 23, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ea74cf14-5e1a-4ff4-93bb-b7d7352e1e19,completed,c7b6ce36-e0ab-447e-958b-71b54b92806d,madeira serrada (ripa) goupia glabra cupiuba,"[array([{'end': 21, 'label': 'CORTE', 'start': 17},
+        {'end': 44, 'label': 'ESPECIE', 'start': 37}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f2830bb6-e8cb-4c83-ad45-5ebdd1c4b940,completed,453dcf47-caac-437b-a930-35db8e33d7e5,"batente s/ rebaixo 3,50 x 11,00 x 2,10","[array([{'end': 38, 'label': 'DIMENSÃO', 'start': 19}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fd4327a6-130b-44a9-9405-28dc7c1c8dca,completed,ca76bf25-6d29-4fac-af3d-6498c8ffca40,porta fichada 2.10x60,"[array([{'end': 21, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 5, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+68d22b31-318a-4cae-86d8-59e2fc4c00b4,completed,d41f157a-9d24-45bc-a509-57069d3c7d50,angelin vermelho (ripas),"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 23, 'label': 'CORTE', 'start': 18}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+83a86e33-e004-4eae-9c0a-b34f93472d0c,completed,c119f4a1-6621-4651-8af9-fac932ebbe27,banco de madeira 1 metro,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+542b2d98-7a6b-4d47-bdf9-7757ad25f9d7,completed,724711da-511a-4a2a-bc8f-485282d97fde,quarubarana madeira serr em caibro,"[array([{'end': 34, 'label': 'CORTE', 'start': 28},
+        {'end': 11, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6d5e956a-7907-4d1b-a21d-cdcaa264da53,completed,a0f684e9-d4f5-45f4-959c-072402d091d6,urucurana madeira serrada em vigas,"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 34, 'label': 'CORTE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a5f849ad-dba3-4cad-99bb-080389b93517,completed,e6c0eae7-387f-4064-a4c9-7ab269fdcb61,"linha 5x6 angelim 3,00mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 18},
+        {'end': 17, 'label': 'ESPECIE', 'start': 10}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+32831b2b-ae1c-4e66-a7d0-1b24d95e1050,completed,67f39173-ccff-43b7-889c-8ff5f70abe27,madeira serrada da especie fava-orelha-de-macaco tipo tabua(taipa),"[array([{'end': 38, 'label': 'ESPECIE', 'start': 27},
+        {'end': 45, 'label': 'ESPECIE', 'start': 38},
+        {'end': 48, 'label': 'ESPECIE', 'start': 45},
+        {'end': 59, 'label': 'CORTE', 'start': 54},
+        {'end': 65, 'label': 'CORTE', 'start': 60}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+1bcafa7d-2300-4362-bbe9-cc1751924dee,completed,74759d45-1b82-4982-971c-bb731d6a55be,"linha 5x11 de angelim c/ 4,5m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 21, 'label': 'ESPECIE', 'start': 14},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0be4bfc9-187b-489a-bc7e-daffed33ff84,completed,3db8f232-b9be-4f14-aaff-368732e1e5bb,"linha de angelim 5x9 c/ 5,0 mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 16, 'label': 'ESPECIE', 'start': 9},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 17},
+        {'end': 30, 'label': 'DIMENSÃO', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+f57605ff-3dc4-4df8-b9e4-e5192443f184,completed,65111975-4f87-47fe-860a-dfdd175948ca,linha mista 5 x 11 3.0,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 11, 'label': 'ESPECIE', 'start': 6}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d9dc6755-00e1-4d64-9591-066b9f26876d,completed,56d24f5f-ab37-4816-bbd9-f4ffb41040e6,"linha angelin 5,0x18cm c/3,5mts","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 6},
+        {'end': 22, 'label': 'DIMENSÃO', 'start': 14},
+        {'end': 31, 'label': 'DIMENSÃO', 'start': 25}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+46fd0127-50f3-4702-a066-fe2edd495382,completed,6ac456f8-0e7d-4fcb-abec-3b5dea47e989,"linha mass 5 x 28 - 1,50","[array([{'end': 10, 'label': 'ESPECIE', 'start': 6},
+        {'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 17, 'label': 'DIMENSÃO', 'start': 11},
+        {'end': 24, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4735d026-07f0-4b9d-8097-4fc3e576af6c,completed,1f430379-b9f1-47d2-b11b-5bde5f1002ae,jarana serrado em m.i.r. ripa,"[array([{'end': 29, 'label': 'CORTE', 'start': 25},
+        {'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+dc8b0d35-cc3b-4a28-9527-e81cdd214339,completed,ef627e70-750e-44d3-9ea0-f540a925a63d,macaranduba-madeira serrada em (sarrafo),"[array([{'end': 39, 'label': 'CORTE', 'start': 32},
+        {'end': 11, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+da814be7-45fd-4b4c-86a7-dd4a6bda3e96,completed,8d8322f6-88aa-4596-88e0-111a23c5d059,casca seca madeira serrada em sarrafos,"[array([{'end': 38, 'label': 'CORTE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cf5796e5-8a78-48f8-8037-a21a291eb60e,completed,379c05d0-9e74-4180-8d45-956f54cea733,caibro guajar? c 5 50 mts,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 13, 'label': 'ESPECIE', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7b90aed4-77db-45cd-a912-f63bf0cc2d86,completed,14bc98df-85a8-4754-bc80-4b2181739e51,madeira serrada em viga - angelim-pedra,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 39, 'label': 'ESPECIE', 'start': 26}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+88d6c4a3-eb2b-425f-8fa0-645f93a4f75c,completed,c63b6b4b-949e-4637-b186-552f666711bc,louro madeira serrada,"[array([{'end': 5, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+24d2ab45-5956-4d36-b096-ee1217720de8,completed,91e5067d-c6ec-45ae-8cee-23fb15248688,madeira serrada da especie pequia(caryocar gracile wittm.),"[array([{'end': 33, 'label': 'ESPECIE', 'start': 27},
+        {'end': 57, 'label': 'ESPECIE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cc3a9219-6b9e-457b-a98f-f94dc39a4c3f,completed,a24c75f7-671b-4c93-bb04-1e2d5e9ec0fe,caibro nao aparelhado 5x6cm,"[array([{'end': 6, 'label': 'CORTE', 'start': 0},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+53981c5a-43bf-41a3-b966-257057526197,completed,566243b1-3b77-4294-b745-da87cb3bd385,tabua melhor 23-madeira,"[array([{'end': 5, 'label': 'CORTE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ba0ff181-b5a8-45b7-a60e-97c6be12f3aa,completed,6683bbdd-b523-42c2-a456-2817a17b335e,casca de pinus 5kg,"[array([{'end': 14, 'label': 'ESPECIE', 'start': 9},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6b04593c-cffe-435e-818c-68b462d53c8e,completed,0fe30e5d-f1a0-47ee-ba90-bab4b0eb1dfa,jarana em sarrafos,"[array([{'end': 18, 'label': 'CORTE', 'start': 10},
+        {'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+d1b04256-0800-4261-b618-3c79114dc6d5,pending,6cdf9589-e897-4ac8-9ceb-4b1fba4c2d00,prend roupa madeira parana c/12 1x1,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+d618fc0c-d5cd-478c-ba06-a583c43f6e0a,completed,8cdad36c-9c7e-421f-81b2-a24520245503,taxi madeira serrado em viga,"[array([{'end': 4, 'label': 'ESPECIE', 'start': 0},
+        {'end': 28, 'label': 'CORTE', 'start': 24}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a3500071-13d1-4130-a5fa-c1e71f32a9af,completed,59268ed9-868c-4131-af91-1a3210f00504,uxirana madeira serrada em viga,"[array([{'end': 7, 'label': 'ESPECIE', 'start': 0},
+        {'end': 31, 'label': 'CORTE', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+c74ed88c-a3f4-4d91-b5d6-4bff27b8eb8d,completed,8fd3257f-417b-4438-9734-4627bdcd8365,jatoba mad ind de residuos ripas,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 32, 'label': 'CORTE', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+4a0fd551-a4ef-4092-90d9-4c4e7cb8913e,completed,9cf8e1f9-4d5e-49fa-adcc-de6ef35130db,mourao 09 x 09 cm - mac,"[array([{'end': 6, 'label': 'ESPECIE', 'start': 0},
+        {'end': 17, 'label': 'DIMENSÃO', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3b37e145-141e-4df9-847f-027914d2ed7d,completed,6130bc63-7f43-4db0-a143-b7acab40bacf,produto acabado - portais - da especie ipeuba,"[array([{'end': 26, 'label': 'CORTE', 'start': 18},
+        {'end': 45, 'label': 'ESPECIE', 'start': 39}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+ca2a7b5a-e8a2-4d14-8a44-2dd6705ec404,completed,9acca2a0-066a-4874-b611-2c5add691fce,linha angelim vermelho 5x18 7 5m,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 22, 'label': 'ESPECIE', 'start': 6},
+        {'end': 27, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 32, 'label': 'DIMENSÃO', 'start': 28}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+a5632652-843b-4232-b925-9d607d727497,completed,a33f73df-ad57-4694-913d-ea8769cb59a2,macaranduba 28 madeira serrada (viga),"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0},
+        {'end': 36, 'label': 'CORTE', 'start': 32}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+6554afcd-4505-4c1f-97a7-6cfdfa9d181b,pending,26a1b011-3ca0-46d2-8696-8a41901cd207,elipses para portico havaianas,"[array([], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['discarded']
+26ba52cf-9578-491e-8979-db1d2a6cad2c,completed,24946d57-7b43-45a6-b657-225b9137fea4,"linha madeira mista 3x5 7,50m","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 19, 'label': 'ESPECIE', 'start': 14},
+        {'end': 29, 'label': 'DIMENSÃO', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+11d1dd14-724a-4188-ab2e-9f0d5f4e7a76,completed,e704840b-e01d-4905-b4c9-7e86709cf2b2,timborana madeira serrada em prancha,"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 36, 'label': 'CORTE', 'start': 29}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3ee69b28-e4d4-4dba-ab69-eb9b1d42af58,completed,88846ced-e674-42eb-aa09-04dd283c62f9,"linha mix 5x14 6,0mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 9, 'label': 'ESPECIE', 'start': 6},
+        {'end': 14, 'label': 'DIMENSÃO', 'start': 10},
+        {'end': 20, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+10b528fc-f022-409c-9f41-c71791456f00,completed,20b60d5c-d3b6-4d2d-af6f-2a1687c38b4a,madeira serrada em viga( essencia mac ),"[array([{'end': 23, 'label': 'CORTE', 'start': 19},
+        {'end': 37, 'label': 'ESPECIE', 'start': 34}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+3d421d10-ea5f-4e2a-8bff-ecbd8cfdcca4,completed,a997da2b-1780-4886-b25e-b02b4ed7db0b,ripa angilim 2,"[array([{'end': 4, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'ESPECIE', 'start': 5},
+        {'end': 14, 'label': 'DIMENSÃO', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b20db6f2-bd21-4788-880e-340fd71e1c18,completed,ae3ae367-2c89-45cd-bf19-85c4e9a4db8f,prnchao esp. jatoba hymenaea courbaril l.,"[array([{'end': 7, 'label': 'CORTE', 'start': 0},
+        {'end': 19, 'label': 'ESPECIE', 'start': 13},
+        {'end': 41, 'label': 'ESPECIE', 'start': 20}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+17ba9741-0ea7-4224-976a-9f0975d3d305,completed,120ea9fe-e7e7-4fda-83eb-8e24ffe85223,macaranduba dormente,"[array([{'end': 11, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+91130d8a-c1d2-41d8-89d2-4d41dbc1e3e4,completed,250c74ff-18b4-4559-ad09-6066ac58d025,res.aprovt. industrial de macaranduba-caibro curto,"[array([{'end': 37, 'label': 'ESPECIE', 'start': 26},
+        {'end': 44, 'label': 'CORTE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+b9fb61d8-5979-4bd9-bf12-1c5849c2cdb9,completed,b3ba3dc3-0504-4b38-9df2-358f104bc21e,mad. esp. macaranduba (manilkara huberi (ducke) chevalier) industrializada de residuo (caibrinho),"[array([{'end': 22, 'label': 'ESPECIE', 'start': 10},
+        {'end': 57, 'label': 'ESPECIE', 'start': 23}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+cf7af044-db6f-4613-bcae-ac367cfdd44a,completed,9cfd1109-fbed-4fe6-9c46-12332a3dbbd5,"porta diagonal 80cm x 2,10mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 28, 'label': 'DIMENSÃO', 'start': 15}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+0e36d19d-1a89-4601-902c-8d7a3d76c02f,completed,9e55123f-bdb9-4130-8b9a-87033e606d15,ipe serrado pranchao,"[array([{'end': 3, 'label': 'ESPECIE', 'start': 0},
+        {'end': 20, 'label': 'CORTE', 'start': 12}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+60d11588-4e56-4d33-aea2-5b42098881e4,completed,1c9708fe-375e-4142-9af1-553795dded8e,linha 5x30cm mista,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 12, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 18, 'label': 'ESPECIE', 'start': 13}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8ea3968b-0b97-4e51-8a4c-955968ca4d29,completed,74e87039-7853-419e-888c-aa0ff054f7b4,angelim vermelho madeira serrada(caibro),"[array([{'end': 16, 'label': 'ESPECIE', 'start': 0},
+        {'end': 39, 'label': 'CORTE', 'start': 33}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+7e4b104f-199b-44b8-b75b-a708b8cb3dc8,completed,cebce100-56ad-4752-9e24-1913c568fe44,madeira serrada em ripas da especie - guajara,"[array([{'end': 24, 'label': 'CORTE', 'start': 19},
+        {'end': 45, 'label': 'ESPECIE', 'start': 38}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+2f11638e-b539-4b80-a95d-dbb75acd46fa,completed,3d459bb7-f788-4812-bb38-310a24882e79,linha 6x10 3x4  05 de 4mt,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 10, 'label': 'DIMENSÃO', 'start': 6},
+        {'end': 14, 'label': 'DIMENSÃO', 'start': 11},
+        {'end': 18, 'label': 'DIMENSÃO', 'start': 16},
+        {'end': 25, 'label': 'DIMENSÃO', 'start': 22}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+79957374-c446-452d-8d9f-a564fbec40e0,completed,b278e232-6aa4-42e5-8d04-b27f3967e0f4,mandioqueiro mad ind residuo (caibrinho),"[array([{'end': 12, 'label': 'ESPECIE', 'start': 0},
+        {'end': 39, 'label': 'CORTE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+632cd485-1452-4aae-beda-463065560e6b,completed,f2afcde7-02a7-4e62-9b65-765d4d6c8ade,linha 5 12 (3x5) cupiuba,"[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 15, 'label': 'DIMENSÃO', 'start': 12},
+        {'end': 24, 'label': 'ESPECIE', 'start': 17}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+60002166-a417-40d2-9e96-6d70c48b53fc,completed,4bd387fd-4d01-4cb9-98e9-98a19995a624,andiroba - madeira serrada em ripas,"[array([{'end': 9, 'label': 'ESPECIE', 'start': 0},
+        {'end': 35, 'label': 'CORTE', 'start': 30}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+317e8c5d-2d52-4c4b-b028-07c497686535,completed,a4333cd4-1783-43c7-b9a3-83d2a437205d,"linha angelim (5x11cm) 3x5 3,00mt","[array([{'end': 5, 'label': 'CORTE', 'start': 0},
+        {'end': 14, 'label': 'ESPECIE', 'start': 6},
+        {'end': 21, 'label': 'DIMENSÃO', 'start': 15},
+        {'end': 26, 'label': 'DIMENSÃO', 'start': 23},
+        {'end': 33, 'label': 'DIMENSÃO', 'start': 27}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+fc7d3479-d982-4580-9f6c-678e432f96e2,completed,f9627a6c-18aa-4ac2-b966-fa6a73be6457,lapela louro folha 15g,"[array([{'end': 22, 'label': 'DIMENSÃO', 'start': 19},
+        {'end': 12, 'label': 'ESPECIE', 'start': 7}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+33303b57-f52c-441d-9e3d-c9a950aad03e,completed,dd88614e-1d3d-4dd6-a7e5-f8f7437d8dc8,lambril jatoba,"[array([{'end': 14, 'label': 'ESPECIE', 'start': 8}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
+8bd02751-4890-459a-adef-ec177535db46,completed,dcb5dfae-ffd7-4e26-a9c6-7753a7d554ee,garapa serrada prancha,"[array([{'end': 22, 'label': 'CORTE', 'start': 15},
+        {'end': 6, 'label': 'ESPECIE', 'start': 0}], dtype=object)]",['05d4e3c7-2456-43e7-9d6b-0dd8f0661825'],['submitted']
