@@ -1,9 +1,10 @@
+gliner
 pandas
 spacy
 scikit-learn
 skweak
-## Erro
-torch --index-url https://download.pytorch.org/whl/cu128
-torchvision --index-url https://download.pytorch.org/whl/cu128
-torchaudio --index-url https://download.pytorch.org/whl/cu128
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+torchaudio
 transformers[torch]
