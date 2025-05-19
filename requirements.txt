@@ -3,6 +3,9 @@ pandas
 spacy
 scikit-learn
 skweak
+ollama
+langchain_openai
+dotenv
 --extra-index-url https://download.pytorch.org/whl/cu128
 torch
 torchvision

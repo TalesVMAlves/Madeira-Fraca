@@ -1,4 +1,5 @@
 .venv/
+.env
 temp/
 artefatos/
 __pycache__
