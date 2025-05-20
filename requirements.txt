@@ -6,6 +6,7 @@ skweak
 ollama
 langchain_openai
 dotenv
+datasets
 --extra-index-url https://download.pytorch.org/whl/cu128
 torch
 torchvision
